@@ -1,0 +1,801 @@
+source,tag,comparison,radius,metric_type,threshold,window,pca_group,dtw_score
+RSV,,Active Cases,50,Network Density,0.6,15,,42.67819735259498
+RSV,,Active Cases,50,Network Density,0.5,15,,43.466136260431306
+RSV,face shield,Active Cases,50,,,,,43.78029370334088
+,,Active Cases,50,Network Density,0.5,30day,RSVSymptoms&NewNormalProtocols2-0.6,44.472887130674515
+,,Active Cases,50,Clustering Coefficient,0.4,15day,RSVFaceWearing&Others-0.5,44.5503352167407
+RSV,,Active Cases,50,Network Density,0.5,30,,44.973887606706306
+,,Active Cases,50,Network Density,0.4,30day,RSVFaceWearing&Others-0.5,45.794899728235414
+RSV,,Active Cases,30,Network Density,0.5,30,,46.705954303447946
+,,Active Cases,30,Network Density,0.5,30day,RSVSymptoms&NewNormalProtocols2-0.6,47.413015248269566
+RSV,,Active Cases,30,Network Density,0.5,15,,47.45809492968858
+RSV,,Active Cases,30,Network Density,0.6,15,,47.8569796143216
+,,Active Cases,50,Network Density,0.6,30day,RSVFaceWearing&Others-0.5,48.70044981726171
+,,Active Cases,50,Network Density,0.5,15day,RSVSymptoms&NewNormalProtocols2-0.6,48.81170020322938
+,,Active Cases,50,Network Density,0.4,15day,RSVSymptoms&NewNormalProtocols2-0.6,48.902627610642504
+,,Active Cases,30,Clustering Coefficient,0.4,15day,RSVFaceWearing&Others-0.5,48.98486276436559
+RSV,,Active Cases,20,Network Density,0.5,30,,49.10149056451623
+,,Active Cases,30,Network Density,0.6,30day,RSVFaceWearing&Others-0.5,49.734607815574925
+,,Active Cases,50,Network Density,0.5,30day,RSVSymptoms&NewNormalProtocols1-0.6,50.22494143004405
+,,Active Cases,20,Network Density,0.5,30day,RSVSymptoms&NewNormalProtocols2-0.6,50.68386615258968
+,,Active Cases,50,Network Density,0.4,15day,RSVFaceWearing&Others-0.5,51.31548004555896
+RSV,,Active Cases,50,Network Density,0.6,30,,51.332704817116166
+RSV,,Active Cases,20,Network Density,0.5,15,,51.34750132136291
+RSV,,Active Cases,50,Network Density,0.4,15,,51.471924361678155
+,,Active Cases,50,Clustering Coefficient,0.4,15day,RSVSymptoms&NewNormalProtocols2-0.6,51.49939564054066
+RSV,,Active Cases,15,Network Density,0.5,30,,51.53754306934901
+,,Active Cases,30,Network Density,0.4,30day,RSVFaceWearing&Others-0.5,51.61956470808739
+,,Active Cases,30,Network Density,0.4,15day,RSVSymptoms&NewNormalProtocols2-0.6,51.849968588298985
+RSV,,Active Cases,50,Clustering Coefficient,0.4,15,,51.88060377097611
+,,Active Cases,15,Network Density,0.5,30day,RSVSymptoms&NewNormalProtocols2-0.6,52.39178949623132
+,,Active Cases,50,Network Density,0.5,30day,MSVSymptoms-0.5,52.508237278605506
+,,Active Cases,50,Network Density,0.5,15day,RSVFaceWearing&Others-0.5,52.56023080030947
+,,Active Cases,20,Network Density,0.6,30day,RSVFaceWearing&Others-0.5,52.56709774154247
+,,Active Cases,50,Clustering Coefficient,0.4,15day,MSVFaceWearing&Others-0.5,52.68338827797928
+RSV,,Active Cases,50,Network Density,0.4,30,,52.93106045861182
+,,Active Cases,50,Network Density,0.4,30day,RSVSymptoms&NewNormalProtocols1-0.6,53.3885249742292
+,,Active Cases,30,Network Density,0.4,30day,RSVSymptoms&NewNormalProtocols1-0.6,53.3885249742292
+RSV,,Active Cases,30,Network Density,0.4,15,,53.41525703565931
+RSV,work from home,Active Cases,50,,,,,53.435230381644885
+,,Active Cases,30,Network Density,0.5,30day,RSVSymptoms&NewNormalProtocols1-0.6,53.450271764595655
+,,Active Cases,50,Network Density,0.4,30day,RSVSymptoms&NewNormalProtocols-0.5,53.6249937984752
+RSV,,Active Cases,20,Network Density,0.6,15,,53.65032164684893
+RSV,,Active Cases,15,Network Density,0.5,15,,53.68582307881284
+,,Active Cases,50,Network Density,0.5,30day,MSVSymptoms&NewNormalProtocols-0.6,53.71723362384035
+,,Active Cases,20,Clustering Coefficient,0.4,15day,RSVFaceWearing&Others-0.5,53.82199432744481
+,,Active Cases,20,Network Density,0.4,30day,RSVSymptoms&NewNormalProtocols1-0.6,53.88625714553461
+,,Active Cases,50,Network Density,0.6,30day,MSVSymptoms&NewNormalProtocols-0.6,54.06473151532188
+RSV,fever,Active Cases,50,,,,,54.18801191067813
+RSV,face shield,Active Cases,30,,,,,54.20779724430838
+,,Active Cases,30,Clustering Coefficient,0.4,15day,RSVSymptoms&NewNormalProtocols2-0.6,54.2821612286069
+MSV,,Active Cases,50,Network Density,0.4,15,,54.36058462959067
+,,Active Cases,50,Clustering Coefficient,0.4,30day,MSVFaceWearing&Others-0.5,54.39349639209065
+,,Active Cases,50,Clustering Coefficient,0.5,30day,RSVSymptoms&NewNormalProtocols2-0.6,54.583544185174766
+,,Active Cases,15,Network Density,0.6,30day,RSVFaceWearing&Others-0.5,54.61922500234279
+,,Active Cases,50,Clustering Coefficient,0.4,15day,MSVSymptoms&NewNormalProtocols-0.6,54.67657006449242
+,,Active Cases,50,Network Density,0.4,30day,MSVFaceWearing&Others-0.5,54.72696359960914
+,,Active Cases,20,Network Density,0.4,30day,RSVFaceWearing&Others-0.5,54.76720785305979
+,,Active Cases,30,Network Density,0.5,15day,RSVFaceWearing&Others-0.5,54.97802443218618
+,,Active Cases,30,Network Density,0.4,30day,RSVSymptoms&NewNormalProtocols-0.5,55.010269724982976
+,,Active Cases,50,Network Density,0.6,15day,RSVFaceWearing&Others-0.5,55.12825036663168
+RSV,,Active Cases,30,Clustering Coefficient,0.4,15,,55.23972246920357
+,,Active Cases,15,Network Density,0.4,30day,RSVSymptoms&NewNormalProtocols1-0.6,55.27220972729826
+,,Active Cases,7,Network Density,0.5,30day,RSVSymptoms&NewNormalProtocols2-0.6,55.2793853836164
+,,Active Cases,30,Network Density,0.5,30day,MSVSymptoms&NewNormalProtocols-0.6,55.4537063068129
+,,Active Cases,50,Network Density,0.5,30day,RSVSymptoms&NewNormalProtocols-0.5,55.55023896542036
+RSV,,Active Cases,30,Network Density,0.4,30,,55.8648746062297
+,,Active Cases,20,Network Density,0.4,15day,RSVSymptoms&NewNormalProtocols2-0.6,55.867334840965505
+,,Active Cases,30,Network Density,0.5,15day,RSVSymptoms&NewNormalProtocols2-0.6,55.89023010325242
+MSV,,Active Cases,50,Network Density,0.6,15,,55.899687745534834
+MSV,,Active Cases,50,Network Density,0.5,15,,55.95719835156968
+MSV,,Active Cases,50,Clustering Coefficient,0.4,15,,56.19927424690326
+RSV,,Active Cases,15,Network Density,0.6,15,,56.34301304772757
+,,Active Cases,50,Clustering Coefficient,0.4,30day,RSVSymptoms&NewNormalProtocols2-0.6,56.371825508387275
+,,Active Cases,20,Network Density,0.5,30day,RSVSymptoms&NewNormalProtocols1-0.6,56.5629369318714
+MSV,,Active Cases,50,Network Density,0.5,30,,56.82575129840341
+RSV,,Active Cases,20,Network Density,0.4,15,,56.89092534751587
+,,Active Cases,50,Network Density,0.6,30day,RSVSymptoms&NewNormalProtocols2-0.6,57.08755037016206
+,,Active Cases,50,Network Density,0.4,30day,MSVSymptoms-0.5,57.117945834504816
+,,Active Cases,15,Network Density,0.4,30day,RSVFaceWearing&Others-0.5,57.17724440071232
+MSV,,Active Cases,50,Network Density,0.4,30,,57.19123143070145
+,,Active Cases,50,Network Density,0.4,30day,MSVSymptoms&NewNormalProtocols-0.6,57.19362538380548
+,,Active Cases,50,Clustering Coefficient,0.4,15day,MSVSymptoms-0.5,57.24925519798118
+,,Active Cases,50,Network Density,0.4,30day,RSVSymptoms&NewNormalProtocols2-0.6,57.26302595820465
+,,Active Cases,50,Clustering Coefficient,0.5,30day,MSVSymptoms&NewNormalProtocols-0.6,57.39696373348321
+,,Active Cases,15,Clustering Coefficient,0.4,15day,RSVFaceWearing&Others-0.5,57.45553208120232
+RSV,,Active Cases,30,Network Density,0.6,30,,57.62868990722509
+,,Active Cases,50,Network Density,0.5,15day,MSVSymptoms-0.5,57.67859168769682
+RSV,,Active Cases,7,Network Density,0.5,30,,57.70180319187182
+,,Active Cases,30,Network Density,0.6,30day,RSVSymptoms&NewNormalProtocols2-0.6,57.75250679411488
+,,Active Cases,50,Network Density,0.6,30day,MSVFaceWearing&Others-0.5,57.9086074407272
+,,Active Cases,50,Clustering Coefficient,0.4,30day,RSVSymptoms&NewNormalProtocols1-0.6,57.917402305313416
+,,Active Cases,30,Network Density,0.6,15day,RSVFaceWearing&Others-0.5,57.957895050286226
+,,Active Cases,30,Network Density,0.4,15day,RSVFaceWearing&Others-0.5,58.05180114791063
+,,Active Cases,30,Clustering Coefficient,0.4,15day,MSVFaceWearing&Others-0.5,58.07142059539505
+,,Active Cases,20,Network Density,0.5,15day,RSVFaceWearing&Others-0.5,58.341256773465226
+,,Active Cases,50,Network Density,0.5,15day,RSVSymptoms&NewNormalProtocols1-0.6,58.544051633651215
+,,Active Cases,20,Network Density,0.4,30day,RSVSymptoms&NewNormalProtocols-0.5,58.56564934098454
+RSV,,Active Cases,15,Network Density,0.4,15,,58.60031058674901
+MSV,Quarantine,Active Cases,50,,,,,58.71024870231266
+,,Active Cases,30,Network Density,0.5,30day,RSVFaceWearing&Others-0.5,58.73599006653553
+,,Active Cases,50,Network Density,0.5,30day,RSVFaceWearing&Others-0.5,58.73599006653553
+RSV,,Active Cases,20,Network Density,0.4,30,,58.85044116692975
+,,Active Cases,20,Clustering Coefficient,0.4,15day,RSVSymptoms&NewNormalProtocols2-0.6,58.85897678515244
+,,Active Cases,20,Network Density,0.5,30day,RSVFaceWearing&Others-0.5,58.878455627401415
+RSV,,Active Cases,20,Clustering Coefficient,0.4,15,,58.99566007946245
+MSV,,Active Cases,30,Clustering Coefficient,0.4,15,,59.04153013682715
+,,Active Cases,30,Network Density,0.4,30day,MSVSymptoms-0.5,59.052286571080515
+,,Active Cases,50,Network Density,0.6,15day,RSVSymptoms&NewNormalProtocols1-0.6,59.10455423543343
+MSV,,Active Cases,30,Network Density,0.4,15,,59.210843941837744
+,,Active Cases,30,Clustering Coefficient,0.4,15day,MSVSymptoms&NewNormalProtocols-0.6,59.21380023970643
+,,Active Cases,15,Network Density,0.4,15day,RSVSymptoms&NewNormalProtocols2-0.6,59.33633629842962
+RSV,cough,Active Cases,50,,,,,59.35678692387933
+,,Active Cases,50,Clustering Coefficient,0.4,15day,RSVSymptoms&NewNormalProtocols-0.5,59.38316993099128
+,,Active Cases,20,Network Density,0.5,30day,MSVSymptoms&NewNormalProtocols-0.6,59.4445975072627
+,,Active Cases,20,Network Density,0.6,30day,RSVSymptoms&NewNormalProtocols2-0.6,59.462726080029974
+,,Active Cases,15,Network Density,0.5,30day,RSVSymptoms&NewNormalProtocols1-0.6,59.49567519445221
+MSV,,Active Cases,30,Network Density,0.5,15,,59.563462859740234
+,,Active Cases,50,Network Density,0.4,15day,MSVSymptoms&NewNormalProtocols-0.6,59.57856372302935
+RSV,,Active Cases,7,Network Density,0.5,15,,59.63870030000525
+MSV,,Active Cases,30,Network Density,0.4,30,,59.69281474270485
+,,Active Cases,15,Network Density,0.5,30day,RSVFaceWearing&Others-0.5,59.81126417392938
+RSV,fever,Active Cases,30,,,,,59.84080966351309
+,,Active Cases,50,Network Density,0.6,15day,RSVSymptoms&NewNormalProtocols-0.5,59.85013081922215
+,,Active Cases,30,Network Density,0.5,30day,RSVSymptoms&NewNormalProtocols-0.5,59.86334457876489
+,,Active Cases,30,Clustering Coefficient,0.4,30day,RSVSymptoms&NewNormalProtocols2-0.6,59.944888014244256
+MSV,,Active Cases,30,Network Density,0.5,30,,59.99247345239672
+,,Active Cases,50,Clustering Coefficient,0.5,15day,RSVFaceWearing&Others-0.5,60.24133244427137
+,,Active Cases,30,Network Density,0.5,15day,RSVSymptoms&NewNormalProtocols1-0.6,60.377671572459114
+RSV,sipon,Active Cases,50,,,,,60.452339132544346
+,,Active Cases,15,Network Density,0.5,15day,RSVFaceWearing&Others-0.5,60.47558710133241
+RSV,,Active Cases,15,Clustering Coefficient,0.4,15,,60.525967829110904
+MSV,,Active Cases,30,Network Density,0.6,15,,60.651429711276165
+MSV,,Active Cases,20,Network Density,0.4,15,,60.87990600130433
+,,Active Cases,20,Network Density,0.6,15day,RSVFaceWearing&Others-0.5,60.90059628827295
+,,Active Cases,50,Network Density,0.5,15day,RSVSymptoms&NewNormalProtocols-0.5,60.931265307337874
+,,Active Cases,50,Clustering Coefficient,0.5,30day,MSVSymptoms-0.5,60.95649892231274
+,,Active Cases,7,Network Density,0.6,30day,RSVFaceWearing&Others-0.5,61.04474744634991
+,,Active Cases,50,Clustering Coefficient,0.4,30day,MSVSymptoms-0.5,61.068067660013064
+RSV,,Active Cases,15,Network Density,0.4,30,,61.076504977545135
+,,Active Cases,7,Network Density,0.4,30day,RSVSymptoms&NewNormalProtocols1-0.6,61.1188829538
+MSV,,Active Cases,20,Network Density,0.4,30,,61.26525126685942
+,,Active Cases,15,Network Density,0.4,30day,RSVSymptoms&NewNormalProtocols-0.5,61.285024833661275
+,,Active Cases,15,Network Density,0.6,30day,RSVSymptoms&NewNormalProtocols2-0.6,61.320893074688406
+,,Active Cases,30,Network Density,0.5,30day,MSVSymptoms-0.5,61.32366226220597
+,,Active Cases,15,Clustering Coefficient,0.4,15day,RSVSymptoms&NewNormalProtocols2-0.6,61.32894002207429
+RSV,face shield,Active Cases,20,,,,,61.434194723019246
+,,Active Cases,30,Network Density,0.5,15day,MSVSymptoms-0.5,61.446872278178546
+MSV,,Active Cases,20,Clustering Coefficient,0.4,15,,61.52098655983816
+,,Active Cases,30,Clustering Coefficient,0.5,30day,RSVSymptoms&NewNormalProtocols2-0.6,61.69932527410736
+MSV,,Active Cases,20,Network Density,0.5,15,,61.829256266456774
+,,Active Cases,50,Clustering Coefficient,0.5,15day,RSVSymptoms&NewNormalProtocols2-0.6,62.14436429416873
+RSV,work from home,Active Cases,30,,,,,62.1482027149087
+,,Active Cases,7,Clustering Coefficient,0.4,15day,RSVFaceWearing&Others-0.5,62.18712017330324
+,,Active Cases,50,Network Density,0.5,15day,MSVSymptoms&NewNormalProtocols-0.6,62.18855522924725
+,,Active Cases,7,Network Density,0.5,30day,RSVFaceWearing&Others-0.5,62.1958345047325
+,,Active Cases,20,Clustering Coefficient,0.4,15day,MSVSymptoms&NewNormalProtocols-0.6,62.24241562508537
+,,Active Cases,50,Clustering Coefficient,0.6,30day,MSVSymptoms&NewNormalProtocols-0.6,62.27213944335114
+RSV,,Active Cases,7,Network Density,0.6,15,,62.272254463122586
+MSV,,Active Cases,15,Network Density,0.4,30,,62.2765288681697
+,,Active Cases,50,Network Density,0.5,30day,MSVFaceWearing&Others-0.5,62.37419173460782
+RSV,,Active Cases,20,Network Density,0.6,30,,62.394349493793904
+,,Active Cases,30,Network Density,0.4,30day,MSVFaceWearing&Others-0.5,62.39621403804709
+RSV,fever,Active Cases,20,,,,,62.54032418462037
+,,Active Cases,20,Network Density,0.5,15day,RSVSymptoms&NewNormalProtocols2-0.6,62.5660656636716
+MSV,,Active Cases,15,Network Density,0.4,15,,62.6278496658953
+,,Active Cases,20,Network Density,0.5,15day,RSVSymptoms&NewNormalProtocols1-0.6,62.630033276012234
+,,Active Cases,15,Network Density,0.5,30day,MSVSymptoms&NewNormalProtocols-0.6,62.66311029894108
+,,Active Cases,7,Network Density,0.4,30day,RSVFaceWearing&Others-0.5,62.74454128010498
+,,Active Cases,20,Network Density,0.4,15day,RSVFaceWearing&Others-0.5,62.77243757956089
+MSV,,Active Cases,20,Network Density,0.5,30,,62.97180627278055
+,,Active Cases,15,Network Density,0.6,15day,RSVFaceWearing&Others-0.5,63.035557689587705
+,,Active Cases,20,Clustering Coefficient,0.4,30day,RSVSymptoms&NewNormalProtocols2-0.6,63.06597788398464
+,,Active Cases,30,Clustering Coefficient,0.4,15day,RSVSymptoms&NewNormalProtocols-0.5,63.12718955416096
+,,Active Cases,20,Clustering Coefficient,0.4,15day,MSVFaceWearing&Others-0.5,63.16040515305767
+,,Active Cases,30,Network Density,0.4,30day,MSVSymptoms&NewNormalProtocols-0.6,63.21643459182939
+,,Active Cases,20,Network Density,0.5,30day,RSVSymptoms&NewNormalProtocols-0.5,63.23325367819327
+,,Active Cases,50,Network Density,0.8,30day,MSVSymptoms-0.5,63.29313091556549
+,,Active Cases,20,Network Density,0.4,30day,MSVSymptoms-0.5,63.353940586636675
+MSV,,Active Cases,15,Clustering Coefficient,0.4,15,,63.39203953883421
+RSV,cough,Active Cases,30,,,,,63.39346351498575
+,,Active Cases,30,Network Density,0.6,30day,MSVSymptoms&NewNormalProtocols-0.6,63.478024552525554
+,,Active Cases,30,Clustering Coefficient,0.4,30day,RSVSymptoms&NewNormalProtocols1-0.6,63.501115171961374
+,,Active Cases,50,Network Density,0.6,15day,MSVSymptoms&NewNormalProtocols-0.6,63.55396946890353
+,,Active Cases,30,Network Density,0.6,15day,RSVSymptoms&NewNormalProtocols1-0.6,63.61473803515195
+RSV,fever,Active Cases,15,,,,,63.844548891954
+,,Active Cases,30,Network Density,0.5,15day,RSVSymptoms&NewNormalProtocols-0.5,63.91042276168573
+RSV,,Active Cases,7,Network Density,0.4,15,,63.9257020504788
+MSV,,Active Cases,15,Network Density,0.5,15,,64.01217887159329
+MSV,,Active Cases,20,Network Density,0.6,15,,64.16372244679182
+,,Active Cases,7,Network Density,0.4,15day,RSVSymptoms&NewNormalProtocols2-0.6,64.30758124075741
+,,Active Cases,15,Network Density,0.5,15day,RSVSymptoms&NewNormalProtocols1-0.6,64.36197378118227
+,,Active Cases,50,Clustering Coefficient,0.6,15day,RSVFaceWearing&Others-0.5,64.36998905688186
+,,Active Cases,15,Clustering Coefficient,0.4,15day,MSVSymptoms&NewNormalProtocols-0.6,64.43061244239973
+,,Active Cases,30,Network Density,0.4,30day,RSVSymptoms&NewNormalProtocols2-0.6,64.48341298847346
+,,Active Cases,30,Clustering Coefficient,0.4,15day,MSVSymptoms-0.5,64.55242200236735
+,,Active Cases,20,Network Density,0.5,15day,MSVSymptoms-0.5,64.5786296536168
+,,Active Cases,50,Network Density,0.6,30day,RSVSymptoms&NewNormalProtocols1-0.6,64.58737231749595
+,,Active Cases,7,Clustering Coefficient,0.4,15day,RSVSymptoms&NewNormalProtocols2-0.6,64.59457373361717
+,,Active Cases,15,Network Density,0.5,15day,RSVSymptoms&NewNormalProtocols2-0.6,64.65757966019265
+RSV,ubo,Active Cases,50,,,,,64.67484224520152
+MSV,,Active Cases,15,Network Density,0.5,30,,64.8609413609931
+,,Active Cases,20,Clustering Coefficient,0.5,30day,RSVSymptoms&NewNormalProtocols2-0.6,64.8647268297254
+RSV,,Active Cases,15,Network Density,0.6,30,,64.8664613082831
+,,Active Cases,30,Network Density,0.5,15day,MSVSymptoms&NewNormalProtocols-0.6,65.0574569533466
+RSV,cough,Active Cases,20,,,,,65.35493351428879
+,,Active Cases,50,Clustering Coefficient,0.4,30day,MSVSymptoms&NewNormalProtocols-0.6,65.4024224533783
+,,Active Cases,30,Network Density,0.6,15day,RSVSymptoms&NewNormalProtocols-0.5,65.54668863307232
+RSV,face shield,Active Cases,15,,,,,65.56067958116624
+,,Active Cases,7,Network Density,0.5,15day,RSVFaceWearing&Others-0.5,65.58297583783873
+RSV,,Active Cases,7,Network Density,0.4,30,,65.67097020681497
+MSV,,Active Cases,7,Network Density,0.4,30,,65.85318312849577
+,,Active Cases,15,Network Density,0.5,30day,RSVSymptoms&NewNormalProtocols-0.5,65.89739480835915
+,,Active Cases,30,Clustering Coefficient,0.5,30day,MSVSymptoms&NewNormalProtocols-0.6,65.90253959329014
+,,Active Cases,7,Network Density,0.5,30day,RSVSymptoms&NewNormalProtocols1-0.6,66.08010964295747
+MSV,,Active Cases,15,Network Density,0.6,15,,66.08997720014531
+,,Active Cases,30,Clustering Coefficient,0.4,30day,MSVFaceWearing&Others-0.5,66.11339143472956
+,,Active Cases,15,Clustering Coefficient,0.4,30day,RSVSymptoms&NewNormalProtocols2-0.6,66.14277481023335
+RSV,fever,Active Cases,7,,,,,66.2259631241916
+,,Active Cases,20,Clustering Coefficient,0.4,15day,RSVSymptoms&NewNormalProtocols-0.5,66.24395411334683
+,,Active Cases,15,Network Density,0.5,15day,MSVSymptoms-0.5,66.36373137994966
+RSV,cough,Active Cases,15,,,,,66.37847400004254
+RSV,Frontliners,Active Cases,50,,,,,66.42239146961333
+RSV,,Active Cases,50,Clustering Coefficient,0.4,30,,66.48297148649549
+RSV,,Active Cases,50,Clustering Coefficient,0.5,30,,66.54626089401175
+,,Active Cases,15,Clustering Coefficient,0.4,15day,MSVFaceWearing&Others-0.5,66.65350342981719
+,,Active Cases,15,Network Density,0.4,30day,MSVSymptoms-0.5,66.65872926623558
+,,Active Cases,30,Network Density,0.5,30day,MSVFaceWearing&Others-0.5,66.71272608003
+,,Active Cases,15,Network Density,0.4,15day,RSVFaceWearing&Others-0.5,66.7161140205909
+,,Active Cases,20,Network Density,0.6,15day,RSVSymptoms&NewNormalProtocols1-0.6,66.81221385979417
+MSV,,Active Cases,7,Network Density,0.4,15,,66.832702922829
+,,Active Cases,20,Network Density,0.4,30day,MSVSymptoms&NewNormalProtocols-0.6,66.91916932643164
+,,Active Cases,7,Network Density,0.6,30day,RSVSymptoms&NewNormalProtocols2-0.6,67.01405678942932
+,,Active Cases,30,Network Density,0.6,15day,MSVSymptoms&NewNormalProtocols-0.6,67.05047031044754
+RSV,,Active Cases,50,Network Density,0.8,15,,67.23417794211947
+RSV,work from home,Active Cases,20,,,,,67.27626219531956
+,,Active Cases,30,Clustering Coefficient,0.5,15day,RSVSymptoms&NewNormalProtocols2-0.6,67.30864059673489
+,,Active Cases,20,Network Density,0.5,15day,MSVSymptoms&NewNormalProtocols-0.6,67.30953391249976
+,,Active Cases,30,Network Density,0.6,30day,MSVFaceWearing&Others-0.5,67.36521881735543
+,,Active Cases,7,Network Density,0.4,30day,RSVSymptoms&NewNormalProtocols-0.5,67.48342125717302
+,,Active Cases,20,Network Density,0.5,15day,RSVSymptoms&NewNormalProtocols-0.5,67.48560942745912
+RSV,,Active Cases,7,Clustering Coefficient,0.4,15,,67.65351067176948
+,,Active Cases,15,Clustering Coefficient,0.5,30day,RSVSymptoms&NewNormalProtocols2-0.6,67.68292568643984
+,,Active Cases,30,Clustering Coefficient,0.5,15day,RSVFaceWearing&Others-0.5,67.69818050721194
+RSV,sipon,Active Cases,30,,,,,67.82802009654117
+,,Active Cases,7,Network Density,0.6,15day,RSVFaceWearing&Others-0.5,67.95967423751782
+,,Active Cases,20,Network Density,0.4,30day,MSVFaceWearing&Others-0.5,68.06087259193815
+MSV,,Active Cases,7,Network Density,0.5,15,,68.0626814273959
+,,Active Cases,20,Network Density,0.6,30day,MSVSymptoms&NewNormalProtocols-0.6,68.11805360322369
+,,Active Cases,50,Clustering Coefficient,0.6,15day,RSVSymptoms&NewNormalProtocols2-0.6,68.24023494204614
+RSV,lagnat,Active Cases,50,,,,,68.28640081654282
+RSV,cough,Active Cases,7,,,,,68.47315368346375
+,,Active Cases,15,Network Density,0.4,30day,MSVSymptoms&NewNormalProtocols-0.6,68.5242203994333
+,,Active Cases,15,Clustering Coefficient,0.4,15day,RSVSymptoms&NewNormalProtocols-0.5,68.55897670679131
+,,Active Cases,20,Clustering Coefficient,0.4,30day,RSVSymptoms&NewNormalProtocols1-0.6,68.59969543622898
+RSV,Frontliners,Active Cases,30,,,,,68.65631573852784
+RSV,ubo,Active Cases,30,,,,,68.68085886395453
+,,Active Cases,20,Network Density,0.4,30day,RSVSymptoms&NewNormalProtocols2-0.6,68.73997282354038
+,,Active Cases,20,Network Density,0.5,30day,MSVSymptoms-0.5,68.79810233342702
+,,Active Cases,15,Network Density,0.6,15day,RSVSymptoms&NewNormalProtocols1-0.6,68.89733289411976
+MSV,,Active Cases,7,Clustering Coefficient,0.4,15,,68.96567509559091
+MSV,,Active Cases,7,Network Density,0.5,30,,69.02974613931508
+RSV,,Active Cases,50,Clustering Coefficient,0.5,15,,69.04535178732688
+MSV,,Active Cases,50,Network Density,0.6,30,,69.09967504010305
+,,Active Cases,7,Network Density,0.5,30day,MSVSymptoms&NewNormalProtocols-0.6,69.22630962421518
+,,Active Cases,50,Network Density,0.8,15day,MSVSymptoms&NewNormalProtocols-0.6,69.41914375683949
+,,Active Cases,30,Clustering Coefficient,0.5,30day,MSVSymptoms-0.5,69.44696841907971
+MSV,,Active Cases,50,Network Density,0.8,30,,69.53220410458246
+,,Active Cases,30,Clustering Coefficient,0.4,30day,MSVSymptoms-0.5,69.54567050885571
+,,Active Cases,50,Network Density,0.8,30day,MSVSymptoms&NewNormalProtocols-0.6,69.59338393777523
+,,Active Cases,30,Network Density,0.8,30day,MSVSymptoms&NewNormalProtocols-0.6,69.59338393777523
+,,Active Cases,15,Network Density,0.5,15day,RSVSymptoms&NewNormalProtocols-0.5,69.72003483931485
+RSV,,Active Cases,50,Clustering Coefficient,0.6,30,,69.78754099896919
+RSV,,Active Cases,30,Clustering Coefficient,0.4,30,,69.80372993277811
+,,Active Cases,20,Network Density,0.6,15day,MSVSymptoms&NewNormalProtocols-0.6,69.86316635772829
+MSV,,Active Cases,50,Clustering Coefficient,0.4,30,,69.91768897862504
+,,Active Cases,20,Network Density,0.6,15day,RSVSymptoms&NewNormalProtocols-0.5,69.9336902015287
+,,Active Cases,7,Network Density,0.5,15day,RSVSymptoms&NewNormalProtocols1-0.6,70.0120709292717
+,,Active Cases,15,Network Density,0.5,15day,MSVSymptoms&NewNormalProtocols-0.6,70.03299405945015
+,,Active Cases,7,Clustering Coefficient,0.4,15day,MSVSymptoms&NewNormalProtocols-0.6,70.04262059142467
+RSV,,Active Cases,7,Network Density,0.6,30,,70.20762928206972
+RSV,work from home,Active Cases,15,,,,,70.22207736453834
+MSV,,Active Cases,7,Network Density,0.6,15,,70.29982925487323
+,,Active Cases,20,Network Density,0.8,30day,MSVSymptoms&NewNormalProtocols-0.6,70.31473151532185
+,,Active Cases,15,Network Density,0.6,30day,MSVSymptoms&NewNormalProtocols-0.6,70.34638271952021
+,,Active Cases,30,Network Density,0.4,15day,MSVSymptoms&NewNormalProtocols-0.6,70.40009185616456
+,,Active Cases,50,Clustering Coefficient,0.4,30day,RSVSymptoms&NewNormalProtocols-0.5,70.50023896542027
+,,Active Cases,20,Clustering Coefficient,0.4,15day,MSVSymptoms-0.5,70.66250977064122
+,,Active Cases,50,Network Density,0.6,15day,RSVSymptoms&NewNormalProtocols2-0.6,70.66801036246298
+,,Active Cases,30,Network Density,0.6,30day,RSVSymptoms&NewNormalProtocols1-0.6,70.82288445319072
+,,Active Cases,50,Network Density,0.5,15day,MSVFaceWearing&Others-0.5,70.86340882915007
+RSV,sipon,Active Cases,20,,,,,71.0643875355261
+RSV,,Active Cases,50,Clustering Coefficient,0.6,15,,71.16830069008647
+,,Active Cases,50,Clustering Coefficient,0.4,30day,RSVFaceWearing&Others-0.5,71.16915003279915
+,,Active Cases,20,Clustering Coefficient,0.5,30day,MSVSymptoms&NewNormalProtocols-0.6,71.17540530409515
+RSV,lagnat,Active Cases,30,,,,,71.17984786648202
+,,Active Cases,7,Network Density,0.5,15day,RSVSymptoms&NewNormalProtocols2-0.6,71.23591724918302
+,,Active Cases,15,Network Density,0.6,15day,MSVSymptoms&NewNormalProtocols-0.6,71.30650475995185
+,,Active Cases,30,Clustering Coefficient,0.4,30day,RSVFaceWearing&Others-0.5,71.31810514478488
+,,Active Cases,15,Network Density,0.4,30day,RSVSymptoms&NewNormalProtocols2-0.6,71.32876487676879
+,,Active Cases,20,Network Density,0.5,30day,MSVFaceWearing&Others-0.5,71.3289288726455
+RSV,ubo,Active Cases,20,,,,,71.37658513030493
+,,Active Cases,7,Network Density,0.4,15day,RSVFaceWearing&Others-0.5,71.5335942559796
+,,Active Cases,15,Network Density,0.6,15day,RSVSymptoms&NewNormalProtocols-0.5,71.63664896641667
+,,Active Cases,15,Network Density,0.4,30day,MSVFaceWearing&Others-0.5,71.72238510248073
+,,Active Cases,7,Network Density,0.5,30day,RSVSymptoms&NewNormalProtocols-0.5,71.72452441195767
+,,Active Cases,30,Clustering Coefficient,0.6,15day,RSVFaceWearing&Others-0.5,71.7855148848739
+,,Active Cases,30,Network Density,0.8,30day,MSVSymptoms-0.5,71.79448973854362
+RSV,headache,Active Cases,50,,,,,71.95200200691505
+RSV,rashes,Active Cases,50,,,,,71.9872825332229
+MSV,,Active Cases,30,Network Density,0.6,30,,72.04497483559055
+,,Active Cases,7,Clustering Coefficient,0.4,30day,RSVSymptoms&NewNormalProtocols2-0.6,72.10276450192106
+,,Active Cases,7,Network Density,0.4,30day,MSVSymptoms-0.5,72.13773779402105
+RSV,face shield,Active Cases,7,,,,,72.21396451411235
+,,Active Cases,30,Clustering Coefficient,0.6,30day,MSVSymptoms&NewNormalProtocols-0.6,72.2721394433511
+,,Active Cases,20,Network Density,0.6,30day,MSVFaceWearing&Others-0.5,72.3319979383375
+,,Active Cases,20,Clustering Coefficient,0.4,30day,MSVFaceWearing&Others-0.5,72.35762815106358
+,,Active Cases,15,Network Density,0.5,30day,MSVSymptoms-0.5,72.4198809858494
+,,Active Cases,30,Clustering Coefficient,0.4,30day,MSVSymptoms&NewNormalProtocols-0.6,72.57625808265387
+,,Active Cases,20,Clustering Coefficient,0.5,15day,RSVFaceWearing&Others-0.5,72.5784028152208
+RSV,Frontliners,Active Cases,20,,,,,72.64842582769171
+,,Active Cases,15,Clustering Coefficient,0.4,30day,RSVSymptoms&NewNormalProtocols1-0.6,72.67983319276543
+,,Active Cases,7,Clustering Coefficient,0.4,15day,MSVFaceWearing&Others-0.5,72.75657317200972
+RSV,social distancing,Active Cases,50,,,,,72.7628981647439
+RSV,,Active Cases,20,Clustering Coefficient,0.4,30,,72.85883716694309
+,,Active Cases,7,Network Density,0.5,15day,MSVSymptoms-0.5,72.93488398061506
+,,Active Cases,20,Clustering Coefficient,0.5,15day,RSVSymptoms&NewNormalProtocols2-0.6,72.95282846104023
+,,Active Cases,50,Clustering Coefficient,0.5,15day,RSVSymptoms&NewNormalProtocols-0.5,73.08654889787165
+RSV,ubo,Active Cases,15,,,,,73.14751721724176
+RSV,,Active Cases,30,Clustering Coefficient,0.5,30,,73.16212319995002
+RSV,sipon,Active Cases,15,,,,,73.2363646654893
+,,Active Cases,7,Network Density,0.4,30day,MSVSymptoms&NewNormalProtocols-0.6,73.35588207731782
+,,Active Cases,50,Network Density,0.4,15day,MSVFaceWearing&Others-0.5,73.38826480856997
+,,Active Cases,50,Network Density,0.6,30day,RSVSymptoms&NewNormalProtocols-0.5,73.42251897666571
+,,Active Cases,20,Clustering Coefficient,0.4,30day,RSVFaceWearing&Others-0.5,73.43864211414102
+MSV,,Active Cases,30,Network Density,0.8,30,,73.49068034860817
+,,Active Cases,15,Network Density,0.5,30day,MSVFaceWearing&Others-0.5,73.60387967388249
+,,Active Cases,15,Clustering Coefficient,0.4,15day,MSVSymptoms-0.5,73.61890479487239
+,,Active Cases,15,Network Density,0.8,30day,MSVSymptoms&NewNormalProtocols-0.6,73.65139162215345
+,,Active Cases,15,Clustering Coefficient,0.5,30day,MSVSymptoms&NewNormalProtocols-0.6,73.75255365007953
+,,Active Cases,7,Network Density,0.6,30day,MSVSymptoms&NewNormalProtocols-0.6,73.87562084153306
+,,Active Cases,50,Clustering Coefficient,0.5,30day,RSVFaceWearing&Others-0.5,73.92102427138964
+,,Active Cases,30,Clustering Coefficient,0.6,15day,RSVSymptoms&NewNormalProtocols2-0.6,73.93676441029986
+,,Active Cases,30,Network Density,0.6,15day,RSVSymptoms&NewNormalProtocols2-0.6,74.16821508065902
+,,Active Cases,7,Network Density,0.6,15day,MSVSymptoms&NewNormalProtocols-0.6,74.3508010403068
+,,Active Cases,50,Network Density,0.6,30day,MSVSymptoms-0.5,74.43784556273985
+,,Active Cases,30,Clustering Coefficient,0.4,30day,RSVSymptoms&NewNormalProtocols-0.5,74.46304938618677
+RSV,,Active Cases,15,Clustering Coefficient,0.4,30,,74.51604948781807
+,,Active Cases,50,Clustering Coefficient,0.5,15day,RSVSymptoms&NewNormalProtocols1-0.6,74.57876365098146
+RSV,work from home,Active Cases,7,,,,,74.66596024065136
+RSV,,Active Cases,30,Clustering Coefficient,0.5,15,,74.69226648395836
+RSV,,Active Cases,30,Network Density,0.8,15,,74.72151997677392
+,,Active Cases,50,Clustering Coefficient,0.5,30day,RSVSymptoms&NewNormalProtocols1-0.6,74.80004685596467
+,,Active Cases,7,Clustering Coefficient,0.5,30day,RSVSymptoms&NewNormalProtocols2-0.6,74.82283759722604
+MSV,,Active Cases,20,Network Density,0.6,30,,74.84378910405871
+RSV,ecq,Active Cases,50,,,,,75.17200290625202
+,,Active Cases,15,Clustering Coefficient,0.5,15day,RSVSymptoms&NewNormalProtocols2-0.6,75.20224445585909
+MSV,fever,Active Cases,50,,,,,75.24127741856107
+,,Active Cases,15,Network Density,0.6,30day,MSVFaceWearing&Others-0.5,75.26126885952574
+MSV,,Active Cases,30,Clustering Coefficient,0.4,30,,75.28901469005477
+,,Active Cases,30,Network Density,0.8,15day,MSVSymptoms&NewNormalProtocols-0.6,75.36477432610495
+,,Active Cases,15,Clustering Coefficient,0.4,30day,RSVFaceWearing&Others-0.5,75.4685127916783
+,,Active Cases,15,Clustering Coefficient,0.4,30day,MSVFaceWearing&Others-0.5,75.52265485896348
+,,Active Cases,20,Network Density,0.6,30day,RSVSymptoms&NewNormalProtocols1-0.6,75.58379720738435
+,,Active Cases,20,Network Density,0.4,15day,MSVSymptoms&NewNormalProtocols-0.6,75.60926077149468
+MSV,,Active Cases,20,Network Density,0.8,30,,75.6321431918281
+MSV,face shield,Active Cases,50,,,,,75.66670800831604
+RSV,,Active Cases,30,Clustering Coefficient,0.6,30,,75.74333239621403
+,,Active Cases,20,Clustering Coefficient,0.4,30day,MSVSymptoms-0.5,75.8641317589728
+,,Active Cases,7,Network Density,0.5,15day,RSVSymptoms&NewNormalProtocols-0.5,76.06066656244654
+RSV,lagnat,Active Cases,20,,,,,76.15764285061547
+,,Active Cases,30,Clustering Coefficient,0.5,30day,RSVFaceWearing&Others-0.5,76.24458813606964
+,,Active Cases,15,Clustering Coefficient,0.5,15day,RSVFaceWearing&Others-0.5,76.25428233244742
+,,Active Cases,20,Clustering Coefficient,0.5,30day,MSVSymptoms-0.5,76.27584106456744
+MSV,,Active Cases,15,Network Density,0.6,30,,76.2772453653938
+RSV,ubo,Active Cases,7,,,,,76.47665935640535
+RSV,Frontliners,Active Cases,15,,,,,76.58702491713939
+,,Active Cases,7,Clustering Coefficient,0.4,15day,RSVSymptoms&NewNormalProtocols-0.5,76.67396580089469
+,,Active Cases,7,Network Density,0.5,15day,MSVSymptoms&NewNormalProtocols-0.6,76.67446736047518
+,,Active Cases,20,Clustering Coefficient,0.4,30day,MSVSymptoms&NewNormalProtocols-0.6,76.77058984965925
+MSV,,Active Cases,15,Network Density,0.8,30,,76.78190891200433
+,,Active Cases,20,Network Density,0.6,15day,RSVSymptoms&NewNormalProtocols2-0.6,76.93350380775857
+RSV,,Active Cases,50,Network Density,0.8,30,,77.01290881829244
+,,Active Cases,20,Clustering Coefficient,0.6,15day,RSVFaceWearing&Others-0.5,77.18448087187623
+RSV,headache,Active Cases,30,,,,,77.22673079308208
+,,Active Cases,50,Network Density,0.4,15day,RSVSymptoms&NewNormalProtocols-0.5,77.25280417401807
+,,Active Cases,20,Clustering Coefficient,0.6,30day,MSVSymptoms&NewNormalProtocols-0.6,77.26206541092677
+,,Active Cases,30,Network Density,0.6,30day,RSVSymptoms&NewNormalProtocols-0.5,77.3719801330709
+MSV,Quarantine,Active Cases,30,,,,,77.37734929761712
+,,Active Cases,20,Network Density,0.8,30day,MSVSymptoms-0.5,77.43665073563857
+,,Active Cases,7,Network Density,0.4,30day,MSVFaceWearing&Others-0.5,77.43736696252861
+,,Active Cases,50,Clustering Coefficient,0.4,15day,RSVSymptoms&NewNormalProtocols1-0.6,77.49172119614977
+RSV,,Active Cases,7,Clustering Coefficient,0.4,30,,77.55230544545498
+,,Active Cases,30,Network Density,0.5,15day,MSVFaceWearing&Others-0.5,77.55584978257326
+RSV,,Active Cases,20,Clustering Coefficient,0.5,30,,77.61744916127823
+RSV,sipon,Active Cases,7,,,,,77.70431243360039
+MSV,headache,Active Cases,50,,,,,77.7751613807726
+,,Active Cases,15,Network Density,0.4,15day,MSVSymptoms&NewNormalProtocols-0.6,77.8549750405634
+,,Active Cases,7,Network Density,0.6,15day,RSVSymptoms&NewNormalProtocols1-0.6,77.88450822967152
+RSV,rashes,Active Cases,30,,,,,77.9060024824502
+MSV,,Active Cases,50,Network Density,0.8,15,,77.98508506255784
+,,Active Cases,7,Clustering Coefficient,0.5,30day,MSVSymptoms&NewNormalProtocols-0.6,78.04301377565353
+,,Active Cases,15,Network Density,0.6,30day,RSVSymptoms&NewNormalProtocols1-0.6,78.13293505763274
+,,Active Cases,7,Network Density,0.4,30day,RSVSymptoms&NewNormalProtocols2-0.6,78.14886140005615
+MSV,,Active Cases,20,Clustering Coefficient,0.4,30,,78.26236997469785
+,,Active Cases,50,Network Density,0.4,15day,MSVSymptoms-0.5,78.39267183300973
+,,Active Cases,20,Clustering Coefficient,0.6,15day,RSVSymptoms&NewNormalProtocols2-0.6,78.46818679232645
+,,Active Cases,20,Clustering Coefficient,0.4,30day,RSVSymptoms&NewNormalProtocols-0.5,78.570340174304
+RSV,flu,Active Cases,50,,,,,78.57674670158923
+,,Active Cases,15,Clustering Coefficient,0.4,30day,MSVSymptoms-0.5,78.58150595070758
+,,Active Cases,7,Network Density,0.8,30day,MSVSymptoms&NewNormalProtocols-0.6,78.65631149845369
+RSV,masks,Active Cases,50,,,,,78.71684244237042
+MSV,,Active Cases,7,Network Density,0.8,30,,78.73591509699173
+,,Active Cases,7,Network Density,0.6,15day,RSVSymptoms&NewNormalProtocols-0.5,78.76185060668163
+,,Active Cases,15,Clustering Coefficient,0.5,30day,MSVSymptoms-0.5,78.82949582981907
+,,Active Cases,15,Clustering Coefficient,0.4,30day,MSVSymptoms&NewNormalProtocols-0.6,78.87901120526926
+,,Active Cases,15,Network Density,0.6,15day,RSVSymptoms&NewNormalProtocols2-0.6,78.8914770231741
+,,Active Cases,7,Network Density,0.5,30day,MSVFaceWearing&Others-0.5,78.92350763752222
+MSV,,Active Cases,7,Network Density,0.6,30,,78.9339868362302
+RSV,,Active Cases,20,Clustering Coefficient,0.5,15,,79.13447759217135
+RSV,,Active Cases,30,Clustering Coefficient,0.6,15,,79.20098067033105
+,,Active Cases,7,Clustering Coefficient,0.4,30day,RSVFaceWearing&Others-0.5,79.22490863086861
+RSV,social distancing,Active Cases,30,,,,,79.32744041545874
+,,Active Cases,7,Clustering Coefficient,0.4,15day,MSVSymptoms-0.5,79.36052660964337
+,,Active Cases,50,Network Density,0.6,15day,MSVSymptoms-0.5,79.49093954485569
+,,Active Cases,20,Network Density,0.6,30day,RSVSymptoms&NewNormalProtocols-0.5,79.59120044981725
+RSV,,Active Cases,20,Clustering Coefficient,0.6,30,,79.64901133914347
+,,Active Cases,7,Network Density,0.5,30day,MSVSymptoms-0.5,79.70292849779776
+MSV,,Active Cases,15,Clustering Coefficient,0.4,30,,79.7612759589145
+,,Active Cases,15,Clustering Coefficient,0.6,30day,MSVSymptoms&NewNormalProtocols-0.6,79.76206541092677
+,,Active Cases,30,Network Density,0.6,30day,MSVSymptoms-0.5,79.84373535751105
+RSV,,Active Cases,15,Clustering Coefficient,0.5,30,,79.8480664105207
+,,Active Cases,15,Clustering Coefficient,0.6,15day,RSVFaceWearing&Others-0.5,79.97778993679803
+RSV,lagnat,Active Cases,15,,,,,80.00255704591501
+,,Active Cases,7,Network Density,0.6,30day,MSVFaceWearing&Others-0.5,80.11259488332857
+RSV,flu,Active Cases,30,,,,,80.1128406409446
+MSV,,Active Cases,50,Clustering Coefficient,0.5,30,,80.14869836042371
+,,Active Cases,15,Network Density,0.8,30day,MSVSymptoms-0.5,80.17697497891473
+RSV,,Active Cases,20,Network Density,0.8,15,,80.34282906721899
+,,Active Cases,15,Clustering Coefficient,0.6,15day,RSVSymptoms&NewNormalProtocols2-0.6,80.45697567947839
+,,Active Cases,7,Clustering Coefficient,0.5,15day,RSVFaceWearing&Others-0.5,80.52198354384767
+,,Active Cases,7,Clustering Coefficient,0.4,30day,RSVSymptoms&NewNormalProtocols1-0.6,80.63836097835254
+,,Active Cases,20,Clustering Coefficient,0.5,30day,RSVFaceWearing&Others-0.5,80.6841439415237
+,,Active Cases,30,Clustering Coefficient,0.5,30day,RSVSymptoms&NewNormalProtocols1-0.6,80.69647643144965
+,,Active Cases,50,Clustering Coefficient,0.5,15day,MSVSymptoms&NewNormalProtocols-0.6,80.84024323712126
+,,Active Cases,30,Clustering Coefficient,0.5,15day,RSVSymptoms&NewNormalProtocols-0.5,80.85964222703628
+RSV,rashes,Active Cases,20,,,,,80.90777198272674
+,,Active Cases,15,Network Density,0.6,30day,RSVSymptoms&NewNormalProtocols-0.5,80.9758176365851
+,,Active Cases,30,Clustering Coefficient,0.4,15day,RSVSymptoms&NewNormalProtocols1-0.6,81.01451414788835
+RSV,,Active Cases,30,Network Density,0.8,30,,81.16181707431343
+,,Active Cases,7,Clustering Coefficient,0.4,30day,MSVFaceWearing&Others-0.5,81.16324618123885
+,,Active Cases,7,Clustering Coefficient,0.5,15day,RSVSymptoms&NewNormalProtocols2-0.6,81.22704066820029
+RSV,flu,Active Cases,20,,,,,81.34898954495748
+,,Active Cases,50,Clustering Coefficient,0.5,15day,MSVFaceWearing&Others-0.5,81.35115126069205
+RSV,headache,Active Cases,20,,,,,81.48579647136154
+RSV,,Active Cases,15,Clustering Coefficient,0.6,30,,81.60185081060818
+,,Active Cases,15,Clustering Coefficient,0.4,30day,RSVSymptoms&NewNormalProtocols-0.5,81.60819042264053
+RSV,,Active Cases,15,Clustering Coefficient,0.5,15,,81.61771057496249
+MSV,flu,Active Cases,50,,,,,81.70839935580825
+,,Active Cases,20,Clustering Coefficient,0.4,15day,RSVSymptoms&NewNormalProtocols1-0.6,81.80932175000552
+,,Active Cases,30,Network Density,0.4,15day,MSVFaceWearing&Others-0.5,81.82818560123897
+RSV,ecq,Active Cases,30,,,,,81.88407917199078
+RSV,flu,Active Cases,15,,,,,81.89471848855396
+RSV,social distancing,Active Cases,20,,,,,82.24347727031858
+,,Active Cases,50,Clustering Coefficient,0.5,30day,RSVSymptoms&NewNormalProtocols-0.5,82.30688314122374
+,,Active Cases,30,Clustering Coefficient,0.5,15day,RSVSymptoms&NewNormalProtocols1-0.6,82.31318757397788
+MSV,,Active Cases,50,Clustering Coefficient,0.6,30,,82.40404472162767
+,,Active Cases,15,Clustering Coefficient,0.4,15day,RSVSymptoms&NewNormalProtocols1-0.6,82.53495097929739
+,,Active Cases,20,Network Density,0.5,15day,MSVFaceWearing&Others-0.5,82.57270154639338
+MSV,,Active Cases,7,Clustering Coefficient,0.4,30,,82.59259590564068
+,,Active Cases,7,Network Density,0.6,30day,RSVSymptoms&NewNormalProtocols1-0.6,82.62213944335106
+,,Active Cases,15,Clustering Coefficient,0.5,30day,RSVFaceWearing&Others-0.5,82.63208696467053
+,,Active Cases,20,Network Density,0.6,30day,MSVSymptoms-0.5,82.74938306313074
+RSV,flu,Active Cases,7,,,,,82.85577965440393
+RSV,rashes,Active Cases,15,,,,,82.97188698130815
+MSV,,Active Cases,30,Clustering Coefficient,0.5,30,,83.02890487091656
+RSV,,Active Cases,15,Network Density,0.8,15,,83.0754133978223
+,,Active Cases,30,Network Density,0.6,15day,MSVSymptoms-0.5,83.12417982446325
+,,Active Cases,7,Clustering Coefficient,0.6,30day,MSVSymptoms&NewNormalProtocols-0.6,83.149892231281
+,,Active Cases,7,Clustering Coefficient,0.4,30day,MSVSymptoms&NewNormalProtocols-0.6,83.19051635273165
+,,Active Cases,20,Network Density,0.8,15day,MSVSymptoms&NewNormalProtocols-0.6,83.24955892534119
+RSV,,Active Cases,20,Network Density,0.8,30,,83.29615312529276
+RSV,,Active Cases,7,Clustering Coefficient,0.5,30,,83.38191203573545
+,,Active Cases,30,Network Density,0.4,15day,MSVSymptoms-0.5,83.45318156891086
+MSV,,Active Cases,50,Clustering Coefficient,0.5,15,,83.47273920279585
+,,Active Cases,7,Network Density,0.6,15day,RSVSymptoms&NewNormalProtocols2-0.6,83.53407627427768
+,,Active Cases,7,Network Density,0.6,30day,RSVSymptoms&NewNormalProtocols-0.5,83.67656733202135
+MSV,,Active Cases,20,Clustering Coefficient,0.5,30,,83.71940687998556
+,,Active Cases,7,Clustering Coefficient,0.4,30day,MSVSymptoms-0.5,83.76249648580263
+,,Active Cases,20,Clustering Coefficient,0.5,30day,RSVSymptoms&NewNormalProtocols1-0.6,83.80181801143277
+,,Active Cases,7,Network Density,0.4,15day,MSVSymptoms&NewNormalProtocols-0.6,83.90559108859279
+MSV,,Active Cases,15,Clustering Coefficient,0.5,30,,83.95796780899592
+RSV,Frontliners,Active Cases,7,,,,,84.12960765849199
+,,Active Cases,7,Clustering Coefficient,0.5,30day,MSVSymptoms-0.5,84.24608284134565
+,,Active Cases,15,Network Density,0.6,30day,MSVSymptoms-0.5,84.26999968762699
+RSV,,Active Cases,15,Network Density,0.8,30,,84.31510636303992
+RSV,social distancing,Active Cases,15,,,,,84.350594851773
+MSV,,Active Cases,7,Clustering Coefficient,0.5,30,,84.50836187722206
+MSV,,Active Cases,30,Network Density,0.8,15,,84.61147979474372
+,,Active Cases,15,Network Density,0.5,15day,MSVFaceWearing&Others-0.5,84.6269640982774
+RSV,,Active Cases,7,Clustering Coefficient,0.6,30,,84.70596476431447
+,,Active Cases,7,Network Density,0.8,30day,MSVSymptoms-0.5,84.80765626464242
+MSV,ecq,Active Cases,50,,,,,84.91767165451552
+MSV,,Active Cases,30,Clustering Coefficient,0.6,30,,85.0195375029404
+RSV,,Active Cases,20,Clustering Coefficient,0.6,15,,85.03202500405486
+,,Active Cases,50,Clustering Coefficient,0.5,30day,MSVFaceWearing&Others-0.5,85.04413831880791
+,,Active Cases,30,Clustering Coefficient,0.5,30day,MSVFaceWearing&Others-0.5,85.08017055571167
+,,Active Cases,20,Clustering Coefficient,0.5,30day,MSVFaceWearing&Others-0.5,85.08017055571167
+,,Active Cases,15,Clustering Coefficient,0.5,30day,MSVFaceWearing&Others-0.5,85.08017055571167
+,,Active Cases,7,Clustering Coefficient,0.5,30day,MSVFaceWearing&Others-0.5,85.08017055571167
+,,Active Cases,50,Clustering Coefficient,0.6,30day,RSVSymptoms&NewNormalProtocols1-0.6,85.13368006747245
+RSV,headache,Active Cases,15,,,,,85.22525777675976
+,,Active Cases,15,Clustering Coefficient,0.5,30day,RSVSymptoms&NewNormalProtocols1-0.6,85.36645581482517
+MSV,,Active Cases,20,Clustering Coefficient,0.6,30,,85.48936991158561
+RSV,ecq,Active Cases,20,,,,,85.53352628070951
+RSV,,Active Cases,7,Clustering Coefficient,0.5,15,,85.54106548692809
+MSV,,Active Cases,15,Clustering Coefficient,0.6,30,,85.71166608335768
+,,Active Cases,30,Network Density,0.4,15day,RSVSymptoms&NewNormalProtocols-0.5,85.7328134421689
+,,Active Cases,7,Clustering Coefficient,0.5,30day,RSVFaceWearing&Others-0.5,85.8185737044325
+RSV,,Active Cases,7,Network Density,0.8,30,,85.83949489269975
+,,Active Cases,20,Network Density,0.4,15day,MSVFaceWearing&Others-0.5,85.97426133952719
+MSV,,Active Cases,7,Clustering Coefficient,0.6,30,,86.00615104068049
+,,Active Cases,30,Clustering Coefficient,0.5,30day,RSVSymptoms&NewNormalProtocols-0.5,86.02957079936266
+,,Active Cases,20,Network Density,0.6,15day,MSVSymptoms-0.5,86.1857851128926
+,,Active Cases,20,Clustering Coefficient,0.5,15day,RSVSymptoms&NewNormalProtocols-0.5,86.20750161913493
+,,Active Cases,20,Network Density,0.4,15day,MSVSymptoms-0.5,86.24161710004901
+MSV,Quarantine,Active Cases,20,,,,,86.33776448613105
+,,Active Cases,30,Clustering Coefficient,0.5,15day,MSVSymptoms&NewNormalProtocols-0.6,86.41038128631094
+,,Active Cases,7,Clustering Coefficient,0.4,15day,RSVSymptoms&NewNormalProtocols1-0.6,86.43233133081706
+,,Active Cases,7,Clustering Coefficient,0.6,15day,RSVSymptoms&NewNormalProtocols2-0.6,86.91377269580367
+,,Active Cases,7,Network Density,0.6,30day,MSVSymptoms-0.5,86.94036016618253
+,,Active Cases,7,Clustering Coefficient,0.6,15day,RSVFaceWearing&Others-0.5,87.10008486499767
+,,Active Cases,30,Clustering Coefficient,0.6,30day,RSVSymptoms&NewNormalProtocols1-0.6,87.14333239621395
+,,Active Cases,50,Network Density,0.8,30day,RSVSymptoms&NewNormalProtocols1-0.6,87.22369037578468
+,,Active Cases,30,Clustering Coefficient,0.5,15day,MSVFaceWearing&Others-0.5,87.25414833508286
+MSV,,Active Cases,30,Clustering Coefficient,0.5,15,,87.26760223715611
+,,Active Cases,7,Clustering Coefficient,0.4,30day,RSVSymptoms&NewNormalProtocols-0.5,87.36007403242414
+,,Active Cases,15,Network Density,0.6,15day,MSVSymptoms-0.5,87.36684458538967
+RSV,lagnat,Active Cases,7,,,,,87.38547410016271
+,,Active Cases,50,Network Density,0.4,15day,RSVSymptoms&NewNormalProtocols1-0.6,87.41985096515329
+RSV,ecq,Active Cases,15,,,,,87.48719450477876
+RSV,rashes,Active Cases,7,,,,,87.53133949318388
+,,Active Cases,7,Clustering Coefficient,0.5,30day,RSVSymptoms&NewNormalProtocols1-0.6,87.84944709961574
+MSV,,Active Cases,7,Clustering Coefficient,0.8,30,,87.90015931028013
+MSV,,Active Cases,50,Clustering Coefficient,0.8,30,,87.90015931028013
+MSV,,Active Cases,15,Clustering Coefficient,0.8,30,,87.90015931028013
+MSV,,Active Cases,30,Clustering Coefficient,0.8,30,,87.90015931028013
+MSV,,Active Cases,20,Clustering Coefficient,0.8,30,,87.90015931028013
+MSV,cough,Active Cases,50,,,,,87.90043076306634
+,,Active Cases,20,Clustering Coefficient,0.5,30day,RSVSymptoms&NewNormalProtocols-0.5,87.93411582794484
+,,Active Cases,7,Network Density,0.5,15day,MSVFaceWearing&Others-0.5,87.95605843561252
+,,Active Cases,20,Clustering Coefficient,0.6,30day,RSVSymptoms&NewNormalProtocols1-0.6,88.0490113391434
+RSV,,Active Cases,7,Network Density,0.8,15,,88.08550786596442
+,,Active Cases,20,Clustering Coefficient,0.5,15day,RSVSymptoms&NewNormalProtocols1-0.6,88.18931817674259
+,,Active Cases,50,Clustering Coefficient,0.6,30day,RSVSymptoms&NewNormalProtocols-0.5,88.19351513447656
+,,Active Cases,15,Clustering Coefficient,0.8,30day,MSVSymptoms-0.5,88.35273170274573
+,,Active Cases,20,Clustering Coefficient,0.8,30day,MSVSymptoms-0.5,88.35273170274573
+,,Active Cases,30,Clustering Coefficient,0.8,30day,MSVSymptoms-0.5,88.35273170274573
+,,Active Cases,7,Clustering Coefficient,0.8,30day,MSVSymptoms-0.5,88.35273170274573
+,,Active Cases,50,Clustering Coefficient,0.8,30day,MSVSymptoms-0.5,88.35273170274573
+RSV,,Active Cases,15,Clustering Coefficient,0.6,15,,88.3869993999409
+RSV,,Active Cases,50,Clustering Coefficient,0.8,30,,88.44283572298738
+RSV,,Active Cases,30,Clustering Coefficient,0.8,30,,88.44283572298738
+RSV,,Active Cases,20,Clustering Coefficient,0.8,30,,88.44283572298738
+RSV,,Active Cases,15,Clustering Coefficient,0.8,30,,88.44283572298738
+RSV,,Active Cases,7,Clustering Coefficient,0.8,30,,88.44283572298738
+,,Active Cases,20,Clustering Coefficient,0.6,30day,MSVSymptoms-0.5,88.4439937346881
+,,Active Cases,7,Clustering Coefficient,0.6,30day,MSVSymptoms-0.5,88.4439937346881
+,,Active Cases,15,Clustering Coefficient,0.6,30day,MSVSymptoms-0.5,88.4439937346881
+,,Active Cases,30,Clustering Coefficient,0.6,30day,MSVSymptoms-0.5,88.4439937346881
+,,Active Cases,50,Clustering Coefficient,0.6,30day,MSVSymptoms-0.5,88.4439937346881
+,,Active Cases,15,Network Density,0.8,15day,MSVSymptoms&NewNormalProtocols-0.6,88.45128079147774
+,,Active Cases,15,Clustering Coefficient,0.6,30day,RSVSymptoms&NewNormalProtocols1-0.6,88.50185081060812
+,,Active Cases,50,Network Density,0.6,15day,MSVFaceWearing&Others-0.5,88.51705116466034
+,,Active Cases,50,Network Density,0.8,15day,MSVFaceWearing&Others-0.5,88.6189338276347
+,,Active Cases,15,Network Density,0.4,15day,MSVFaceWearing&Others-0.5,88.63389500562062
+,,Active Cases,15,Clustering Coefficient,0.5,15day,RSVSymptoms&NewNormalProtocols-0.5,88.67067579337605
+RSV,social distancing,Active Cases,7,,,,,88.67470730223955
+,,Active Cases,30,Clustering Coefficient,0.6,30day,RSVSymptoms&NewNormalProtocols-0.5,88.71412238777991
+RSV,masks,Active Cases,30,,,,,88.71968467038573
+,,Active Cases,50,Network Density,0.8,30day,RSVSymptoms&NewNormalProtocols-0.5,88.7314840845905
+MSV,,Active Cases,20,Network Density,0.8,15,,88.74954346410688
+,,Active Cases,20,Clustering Coefficient,0.5,15day,MSVSymptoms&NewNormalProtocols-0.6,88.8226943679631
+,,Active Cases,15,Clustering Coefficient,0.5,30day,RSVSymptoms&NewNormalProtocols-0.5,88.88695529940955
+,,Active Cases,20,Clustering Coefficient,0.6,30day,RSVSymptoms&NewNormalProtocols-0.5,88.89620466685405
+,,Active Cases,15,Clustering Coefficient,0.6,30day,RSVSymptoms&NewNormalProtocols-0.5,88.98724580639112
+,,Active Cases,30,Clustering Coefficient,0.8,30day,RSVSymptoms&NewNormalProtocols-0.5,89.08569286584463
+,,Active Cases,20,Clustering Coefficient,0.8,30day,RSVSymptoms&NewNormalProtocols-0.5,89.08569286584463
+,,Active Cases,15,Clustering Coefficient,0.8,30day,RSVSymptoms&NewNormalProtocols-0.5,89.08569286584463
+,,Active Cases,7,Clustering Coefficient,0.8,30day,RSVSymptoms&NewNormalProtocols-0.5,89.08569286584463
+,,Active Cases,50,Clustering Coefficient,0.8,30day,RSVSymptoms&NewNormalProtocols-0.5,89.08569286584463
+,,Active Cases,7,Clustering Coefficient,0.6,30day,RSVSymptoms&NewNormalProtocols-0.5,89.11248242901317
+MSV,,Active Cases,20,Clustering Coefficient,0.5,15,,89.13010910785435
+,,Active Cases,15,Network Density,0.4,15day,MSVSymptoms-0.5,89.14908943827825
+,,Active Cases,7,Clustering Coefficient,0.6,30day,RSVSymptoms&NewNormalProtocols1-0.6,89.20596476431443
+,,Active Cases,50,Network Density,0.8,15day,RSVSymptoms&NewNormalProtocols2-0.6,89.45009714808937
+,,Active Cases,50,Clustering Coefficient,0.5,15day,MSVSymptoms-0.5,89.4750362909532
+,,Active Cases,20,Network Density,0.4,15day,RSVSymptoms&NewNormalProtocols-0.5,89.55268329722851
+,,Active Cases,15,Clustering Coefficient,0.5,15day,MSVSymptoms&NewNormalProtocols-0.6,89.6149968574427
+,,Active Cases,7,Network Density,0.6,15day,MSVSymptoms-0.5,89.84755566473845
+MSV,,Active Cases,15,Clustering Coefficient,0.5,15,,90.00412325224276
+,,Active Cases,15,Clustering Coefficient,0.5,15day,RSVSymptoms&NewNormalProtocols1-0.6,90.08104383947116
+MSV,headache,Active Cases,30,,,,,90.3042295244282
+,,Active Cases,50,Clustering Coefficient,0.6,15day,MSVSymptoms&NewNormalProtocols-0.6,90.3145077670609
+,,Active Cases,7,Clustering Coefficient,0.5,30day,RSVSymptoms&NewNormalProtocols-0.5,90.37635648017988
+MSV,,Active Cases,15,Network Density,0.8,15,,90.61283179379528
+,,Active Cases,50,Network Density,0.8,15day,RSVFaceWearing&Others-0.5,91.04015454362724
+,,Active Cases,30,Network Density,0.8,30day,RSVSymptoms&NewNormalProtocols-0.5,91.0417174272951
+,,Active Cases,7,Clustering Coefficient,0.5,15day,MSVSymptoms&NewNormalProtocols-0.6,91.1642233417028
+MSV,Quarantine,Active Cases,15,,,,,91.20333481785418
+RSV,headache,Active Cases,7,,,,,91.3446678395282
+,,Active Cases,20,Clustering Coefficient,0.5,15day,MSVFaceWearing&Others-0.5,91.3702235522701
+MSV,,Active Cases,7,Clustering Coefficient,0.5,15,,91.42983821318188
+,,Active Cases,15,Network Density,0.4,15day,RSVSymptoms&NewNormalProtocols-0.5,91.94794900283624
+RSV,masks,Active Cases,20,,,,,92.03551051577044
+RSV,Quarantine,Active Cases,50,,,,,92.12147594633988
+MSV,fever,Active Cases,30,,,,,92.14687451183109
+,,Active Cases,20,Network Density,0.8,30day,RSVSymptoms&NewNormalProtocols-0.5,92.17880236154056
+,,Active Cases,30,Network Density,0.6,15day,MSVFaceWearing&Others-0.5,92.71045402773738
+,,Active Cases,15,Network Density,0.8,30day,RSVSymptoms&NewNormalProtocols-0.5,92.7427529441164
+,,Active Cases,30,Network Density,0.8,30day,RSVSymptoms&NewNormalProtocols1-0.6,92.80039359010394
+RSV,ecq,Active Cases,7,,,,,92.8134576143147
+MSV,,Active Cases,50,Clustering Coefficient,0.6,15,,92.84183375669356
+,,Active Cases,30,Clustering Coefficient,0.6,15day,MSVSymptoms&NewNormalProtocols-0.6,93.39603559225188
+,,Active Cases,50,Network Density,0.8,15day,MSVSymptoms-0.5,93.4583986038753
+,,Active Cases,7,Network Density,0.8,30day,RSVSymptoms&NewNormalProtocols-0.5,93.64505044825536
+MSV,,Active Cases,7,Network Density,0.8,15,,93.79755746854931
+,,Active Cases,30,Clustering Coefficient,0.5,15day,MSVSymptoms-0.5,93.84940929495056
+RSV,,Active Cases,7,Clustering Coefficient,0.6,15,,93.89423910182232
+,,Active Cases,7,Network Density,0.8,15day,MSVSymptoms&NewNormalProtocols-0.6,93.94479308573597
+,,Active Cases,7,Clustering Coefficient,0.5,15day,RSVSymptoms&NewNormalProtocols1-0.6,94.21527793286732
+RSV,masks,Active Cases,15,,,,,94.4340589470896
+,,Active Cases,7,Network Density,0.4,15day,MSVFaceWearing&Others-0.5,94.5445839009612
+RSV,Quarantine,Active Cases,30,,,,,94.75597481413172
+,,Active Cases,15,Clustering Coefficient,0.5,15day,MSVFaceWearing&Others-0.5,94.91859660093344
+,,Active Cases,20,Clustering Coefficient,0.6,15day,MSVSymptoms&NewNormalProtocols-0.6,94.92264523559564
+,,Active Cases,7,Network Density,0.4,15day,MSVSymptoms-0.5,94.94163918479984
+,,Active Cases,50,Clustering Coefficient,0.6,15day,RSVSymptoms&NewNormalProtocols1-0.6,95.09073408223
+,,Active Cases,20,Network Density,0.8,30day,RSVSymptoms&NewNormalProtocols1-0.6,95.60917439790082
+MSV,,Active Cases,30,Clustering Coefficient,0.6,15,,95.68687131869144
+,,Active Cases,15,Clustering Coefficient,0.6,15day,MSVSymptoms&NewNormalProtocols-0.6,95.73751511458369
+,,Active Cases,30,Network Density,0.8,15day,MSVFaceWearing&Others-0.5,95.74571766755253
+MSV,ecq,Active Cases,30,,,,,95.82234274669348
+,,Active Cases,20,Clustering Coefficient,0.5,15day,MSVSymptoms-0.5,95.9177926167452
+,,Active Cases,7,Clustering Coefficient,0.5,15day,RSVSymptoms&NewNormalProtocols-0.5,96.11221162650472
+RSV,Quarantine,Active Cases,20,,,,,96.20692583278598
+,,Active Cases,20,Network Density,0.6,15day,MSVFaceWearing&Others-0.5,96.39786050874334
+MSV,headache,Active Cases,20,,,,,96.6614401584028
+,,Active Cases,30,Network Density,0.8,15day,MSVSymptoms-0.5,96.7911012988174
+,,Active Cases,7,Clustering Coefficient,0.6,15day,MSVSymptoms&NewNormalProtocols-0.6,96.87688832595812
+RSV,Quarantine,Active Cases,15,,,,,96.90067850665592
+,,Active Cases,15,Clustering Coefficient,0.5,15day,MSVSymptoms-0.5,96.92943252116032
+MSV,,Active Cases,20,Clustering Coefficient,0.6,15,,96.94633047113872
+,,Active Cases,15,Network Density,0.8,30day,RSVSymptoms&NewNormalProtocols1-0.6,96.962913503889
+,,Active Cases,50,Network Density,0.8,15day,RSVSymptoms&NewNormalProtocols1-0.6,97.14994305111958
+,,Active Cases,50,Clustering Coefficient,0.6,15day,MSVSymptoms-0.5,97.2322375326618
+MSV,,Active Cases,15,Clustering Coefficient,0.6,15,,97.6103122276456
+,,Active Cases,20,Network Density,0.8,15day,MSVFaceWearing&Others-0.5,97.81211336177051
+,,Active Cases,15,Network Density,0.8,15day,MSVFaceWearing&Others-0.5,97.81861223395934
+RSV,Quarantine,Active Cases,7,,,,,97.97531256767115
+,,Active Cases,30,Network Density,0.8,15day,RSVSymptoms&NewNormalProtocols2-0.6,98.01777698371926
+RSV,masks,Active Cases,7,,,,,98.02764515436884
+,,Active Cases,7,Network Density,0.8,15day,MSVFaceWearing&Others-0.5,98.12705183464722
+,,Active Cases,7,Network Density,0.4,15day,RSVSymptoms&NewNormalProtocols-0.5,98.2256376041271
+,,Active Cases,20,Network Density,0.8,15day,MSVSymptoms-0.5,98.2773873066211
+,,Active Cases,30,Network Density,0.8,15day,RSVFaceWearing&Others-0.5,98.29110927485092
+,,Active Cases,15,Network Density,0.6,15day,MSVFaceWearing&Others-0.5,98.39774139997466
+,,Active Cases,30,Clustering Coefficient,0.6,15day,MSVFaceWearing&Others-0.5,98.51687250150742
+,,Active Cases,50,Clustering Coefficient,0.6,15day,MSVFaceWearing&Others-0.5,98.51687250150742
+,,Active Cases,7,Clustering Coefficient,0.6,15day,MSVFaceWearing&Others-0.5,98.51687250150742
+,,Active Cases,20,Clustering Coefficient,0.6,15day,MSVFaceWearing&Others-0.5,98.51687250150742
+,,Active Cases,15,Clustering Coefficient,0.6,15day,MSVFaceWearing&Others-0.5,98.51687250150742
+MSV,masks,Active Cases,50,,,,,98.56202306013093
+MSV,,Active Cases,7,Clustering Coefficient,0.6,15,,98.58980649512247
+,,Active Cases,7,Clustering Coefficient,0.5,15day,MSVSymptoms-0.5,98.67244344194556
+,,Active Cases,50,Network Density,0.8,15day,RSVSymptoms&NewNormalProtocols-0.5,98.77153449315456
+MSV,,Active Cases,50,Clustering Coefficient,0.8,15,,98.80217865971724
+,,Active Cases,30,Clustering Coefficient,0.6,15day,MSVSymptoms-0.5,98.8436675078723
+RSV,,Active Cases,50,Clustering Coefficient,0.8,15,,98.89483300578424
+,,Active Cases,15,Network Density,0.8,15day,MSVSymptoms-0.5,98.95823110716915
+,,Active Cases,7,Network Density,0.8,30day,RSVSymptoms&NewNormalProtocols1-0.6,99.15616155936648
+MSV,flu,Active Cases,30,,,,,99.16287661912295
+,,Active Cases,30,Clustering Coefficient,0.8,15day,MSVSymptoms-0.5,99.2223909596444
+,,Active Cases,50,Clustering Coefficient,0.8,15day,MSVSymptoms-0.5,99.2223909596444
+,,Active Cases,7,Clustering Coefficient,0.8,15day,MSVSymptoms-0.5,99.2223909596444
+,,Active Cases,20,Clustering Coefficient,0.8,15day,MSVSymptoms-0.5,99.2223909596444
+,,Active Cases,15,Clustering Coefficient,0.8,15day,MSVSymptoms-0.5,99.2223909596444
+RSV,,Active Cases,30,Clustering Coefficient,0.8,15,,99.43187769390532
+,,Active Cases,7,Clustering Coefficient,0.8,30day,RSVSymptoms&NewNormalProtocols1-0.6,99.44283572298752
+,,Active Cases,20,Clustering Coefficient,0.8,30day,RSVSymptoms&NewNormalProtocols1-0.6,99.44283572298752
+,,Active Cases,30,Clustering Coefficient,0.8,30day,RSVSymptoms&NewNormalProtocols1-0.6,99.44283572298752
+,,Active Cases,15,Clustering Coefficient,0.8,30day,RSVSymptoms&NewNormalProtocols1-0.6,99.44283572298752
+,,Active Cases,50,Clustering Coefficient,0.8,30day,RSVSymptoms&NewNormalProtocols1-0.6,99.44283572298752
+,,Active Cases,20,Clustering Coefficient,0.6,15day,MSVSymptoms-0.5,99.47023918529597
+RSV,,Active Cases,7,Clustering Coefficient,0.8,15,,99.4759293275565
+RSV,,Active Cases,20,Clustering Coefficient,0.8,15,,99.4759293275565
+RSV,,Active Cases,15,Clustering Coefficient,0.8,15,,99.4759293275565
+,,Active Cases,30,Clustering Coefficient,0.6,15day,RSVSymptoms&NewNormalProtocols1-0.6,99.7137726958038
+,,Active Cases,15,Clustering Coefficient,0.6,15day,MSVSymptoms-0.5,99.73884806932126
+,,Active Cases,7,Network Density,0.8,15day,MSVSymptoms-0.5,99.96391323351592
+MSV,ecq,Active Cases,20,,,,,99.97804973047364
+,,Active Cases,7,Clustering Coefficient,0.6,15day,MSVSymptoms-0.5,100.13352837394191
+MSV,Quarantine,Active Cases,7,,,,,100.17649952662369
+MSV,Frontliners,Active Cases,50,,,,,100.183876830674
+MSV,,Active Cases,30,Clustering Coefficient,0.8,15,,100.34064019817868
+,,Active Cases,20,Network Density,0.8,15day,RSVFaceWearing&Others-0.5,100.50186479665896
+,,Active Cases,30,Network Density,0.4,15day,RSVSymptoms&NewNormalProtocols1-0.6,100.65278553225484
+,,Active Cases,50,Clustering Coefficient,0.6,15day,RSVSymptoms&NewNormalProtocols-0.5,100.85976832199243
+,,Active Cases,30,Network Density,0.8,15day,RSVSymptoms&NewNormalProtocols1-0.6,100.907493430407
+,,Active Cases,15,Network Density,0.8,15day,RSVFaceWearing&Others-0.5,101.01060812470683
+MSV,,Active Cases,20,Clustering Coefficient,0.8,15,,101.0221920250953
+MSV,headache,Active Cases,15,,,,,101.0930141268546
+MSV,,Active Cases,15,Clustering Coefficient,0.8,15,,101.3055277348776
+,,Active Cases,7,Network Density,0.6,15day,MSVFaceWearing&Others-0.5,101.51987999791558
+MSV,face shield,Active Cases,30,,,,,101.64587928219072
+MSV,,Active Cases,7,Clustering Coefficient,0.8,15,,101.6708732676975
+,,Active Cases,7,Network Density,0.8,15day,RSVFaceWearing&Others-0.5,101.8689952430935
+,,Active Cases,20,Clustering Coefficient,0.6,15day,RSVSymptoms&NewNormalProtocols1-0.6,101.92437188735296
+,,Active Cases,7,Clustering Coefficient,0.5,15day,MSVFaceWearing&Others-0.5,101.93749022935884
+MSV,social distancing,Active Cases,50,,,,,102.24196557895836
+,,Active Cases,30,Network Density,0.8,15day,RSVSymptoms&NewNormalProtocols-0.5,102.39776745501784
+MSV,ecq,Active Cases,15,,,,,102.44070001802996
+,,Active Cases,20,Network Density,0.8,15day,RSVSymptoms&NewNormalProtocols1-0.6,102.49708555731736
+MSV,lagnat,Active Cases,50,,,,,102.51814932515768
+,,Active Cases,30,Clustering Coefficient,0.8,15day,RSVSymptoms&NewNormalProtocols1-0.6,102.58250329410184
+,,Active Cases,15,Clustering Coefficient,0.8,15day,RSVSymptoms&NewNormalProtocols1-0.6,102.58250329410184
+,,Active Cases,50,Clustering Coefficient,0.8,15day,RSVSymptoms&NewNormalProtocols1-0.6,102.58250329410184
+,,Active Cases,20,Clustering Coefficient,0.8,15day,RSVSymptoms&NewNormalProtocols1-0.6,102.58250329410184
+,,Active Cases,7,Clustering Coefficient,0.8,15day,RSVSymptoms&NewNormalProtocols1-0.6,102.58250329410184
+MSV,masks,Active Cases,30,,,,,102.74748503644506
+,,Active Cases,20,Network Density,0.8,15day,RSVSymptoms&NewNormalProtocols2-0.6,102.98756057797524
+,,Active Cases,15,Clustering Coefficient,0.6,15day,RSVSymptoms&NewNormalProtocols1-0.6,102.99454184067714
+,,Active Cases,7,Clustering Coefficient,0.8,15day,RSVSymptoms&NewNormalProtocols-0.5,103.08250329410184
+,,Active Cases,15,Clustering Coefficient,0.8,15day,RSVSymptoms&NewNormalProtocols-0.5,103.08250329410184
+,,Active Cases,20,Clustering Coefficient,0.8,15day,RSVSymptoms&NewNormalProtocols-0.5,103.08250329410184
+,,Active Cases,30,Clustering Coefficient,0.8,15day,RSVSymptoms&NewNormalProtocols-0.5,103.08250329410184
+,,Active Cases,50,Clustering Coefficient,0.8,15day,RSVSymptoms&NewNormalProtocols-0.5,103.08250329410184
+MSV,fever,Active Cases,20,,,,,103.15062935416655
+,,Active Cases,15,Network Density,0.8,15day,RSVSymptoms&NewNormalProtocols1-0.6,103.43792572079408
+,,Active Cases,30,Clustering Coefficient,0.6,15day,RSVSymptoms&NewNormalProtocols-0.5,103.68300346503456
+,,Active Cases,20,Network Density,0.8,15day,RSVSymptoms&NewNormalProtocols-0.5,103.917948947004
+,,Active Cases,7,Clustering Coefficient,0.6,15day,RSVSymptoms&NewNormalProtocols1-0.6,104.69080108091208
+,,Active Cases,15,Network Density,0.8,15day,RSVSymptoms&NewNormalProtocols2-0.6,104.69770194519502
+,,Active Cases,15,Network Density,0.8,15day,RSVSymptoms&NewNormalProtocols-0.5,104.70563012260752
+MSV,masks,Active Cases,20,,,,,104.79251242913264
+,,Active Cases,20,Clustering Coefficient,0.6,15day,RSVSymptoms&NewNormalProtocols-0.5,104.97052573350685
+,,Active Cases,7,Network Density,0.8,15day,RSVSymptoms&NewNormalProtocols1-0.6,105.15694441342644
+,,Active Cases,15,Clustering Coefficient,0.6,15day,RSVSymptoms&NewNormalProtocols-0.5,105.5791572252926
+MSV,Frontliners,Active Cases,30,,,,,105.7718992561071
+,,Active Cases,7,Network Density,0.8,15day,RSVSymptoms&NewNormalProtocols-0.5,106.29364405833344
+,,Active Cases,7,Network Density,0.8,15day,RSVSymptoms&NewNormalProtocols2-0.6,106.31741742412396
+,,Active Cases,7,Clustering Coefficient,0.6,15day,RSVSymptoms&NewNormalProtocols-0.5,106.537205742646
+MSV,work from home,Active Cases,50,,,,,106.588907172477
+MSV,lagnat,Active Cases,30,,,,,106.64139185822242
+MSV,masks,Active Cases,15,,,,,106.71601711389891
+MSV,social distancing,Active Cases,30,,,,,107.08660652931265
+MSV,Frontliners,Active Cases,20,,,,,107.19114835592504
+MSV,ecq,Active Cases,7,,,,,107.57600675045498
+MSV,fever,Active Cases,15,,,,,107.71921162382785
+,,Active Cases,20,Network Density,0.4,15day,RSVSymptoms&NewNormalProtocols1-0.6,107.72488107733874
+MSV,headache,Active Cases,7,,,,,108.33966444053908
+MSV,sipon,Active Cases,50,,,,,108.7233339098819
+MSV,Frontliners,Active Cases,15,,,,,108.74258097228235
+MSV,cough,Active Cases,30,,,,,108.89448695250316
+MSV,lagnat,Active Cases,20,,,,,109.14187972718966
+MSV,flu,Active Cases,20,,,,,109.19544509517831
+MSV,social distancing,Active Cases,20,,,,,109.46580421697143
+MSV,masks,Active Cases,7,,,,,110.31758439483548
+MSV,lagnat,Active Cases,15,,,,,110.58164148597044
+,,Active Cases,15,Network Density,0.4,15day,RSVSymptoms&NewNormalProtocols1-0.6,110.7012876154177
+MSV,social distancing,Active Cases,15,,,,,110.8231953808082
+MSV,lagnat,Active Cases,7,,,,,113.1433801213388
+MSV,face shield,Active Cases,20,,,,,113.77014678824666
+MSV,rashes,Active Cases,50,,,,,114.60047827648044
+MSV,social distancing,Active Cases,7,,,,,114.64895787291834
+MSV,Frontliners,Active Cases,7,,,,,114.83798195998268
+MSV,fever,Active Cases,7,,,,,115.19741290338658
+MSV,flu,Active Cases,15,,,,,115.46794067179754
+MSV,ubo,Active Cases,50,,,,,116.33139867156396
+,,Active Cases,7,Network Density,0.4,15day,RSVSymptoms&NewNormalProtocols1-0.6,117.69219316464569
+MSV,work from home,Active Cases,30,,,,,117.69954202636414
+MSV,face shield,Active Cases,15,,,,,119.71793307144846
+MSV,sipon,Active Cases,30,,,,,120.28345030416226
+MSV,cough,Active Cases,20,,,,,120.68579745379428
+MSV,ubo,Active Cases,30,,,,,121.2037190625692
+MSV,ubo,Active Cases,20,,,,,123.8346534570227
+MSV,work from home,Active Cases,20,,,,,123.94964193657654
+MSV,flu,Active Cases,7,,,,,124.8391061688677
+MSV,rashes,Active Cases,30,,,,,126.04949879012142
+MSV,sipon,Active Cases,20,,,,,126.27475253619583
+MSV,ubo,Active Cases,15,,,,,126.41666981493152
+MSV,cough,Active Cases,15,,,,,127.34222243234323
+MSV,work from home,Active Cases,15,,,,,127.46442203432882
+MSV,face shield,Active Cases,7,,,,,129.691397359995
+MSV,ubo,Active Cases,7,,,,,129.79921642234626
+MSV,sipon,Active Cases,15,,,,,130.14777448948558
+MSV,rashes,Active Cases,20,,,,,133.32607976454003
+MSV,work from home,Active Cases,7,,,,,133.41020942089023
+MSV,rashes,Active Cases,15,,,,,136.4739130098305
+MSV,sipon,Active Cases,7,,,,,137.1396509146758
+MSV,cough,Active Cases,7,,,,,137.64062091713873
+MSV,rashes,Active Cases,7,,,,,141.96678142431085
