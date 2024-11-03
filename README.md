@@ -16,7 +16,7 @@ This is the official repository for the undergraduate thesis of Lopez and Hung (
 ## With 0.6 Thresholds
 * MSVSymptoms-0.6: cough, fever, sipon
 * MSVNewNormalProtocols1-0.6: ecq, quarantine
-* MSVNewNormalProtocol2-0.6: work from home NOPE
+* MSVNewNormalProtocol2-0.6: work from home
 * MSVSymptoms&NewNormalProtocols-0.6: flu, headache, lagnat, rashes, ubo, face shield, frontliners, masks, social distancing
 * RSVSymptoms&NewNormalProtocols1-0.6: flu, cough, fever, quarantine, work from home
 * RSVNewNormalProtocol1-0.6: ecq
