@@ -1,121 +1,301 @@
-source,tag,comparison,radius,match_type,dtw_score
-RSV,face shield,Confirmed Cases,30,One-to-Many,3.796949052530582
-RSV,flu,Confirmed Cases,30,One-to-Many,9.062417585124221
-RSV,face shield,Confirmed Cases,7,One-to-Many,12.255652137032042
-RSV,ecq,Confirmed Cases,30,One-to-Many,16.700704051131492
-RSV,Quarantine,Confirmed Cases,30,One-to-Many,17.643580885023848
-RSV,cough,Confirmed Cases,30,One-to-Many,17.997590627029545
-RSV,fever,Confirmed Cases,30,One-to-Many,18.647576288255394
-RSV,flu,Confirmed Cases,7,One-to-Many,21.659251218770326
-RSV,lagnat,Confirmed Cases,30,One-to-Many,23.8896057534419
-RSV,social distancing,Confirmed Cases,30,One-to-Many,27.338559662989173
-RSV,fever,Confirmed Cases,7,One-to-Many,27.45648669640726
-RSV,cough,Confirmed Cases,7,One-to-Many,27.835267214269155
-RSV,ubo,Confirmed Cases,30,One-to-Many,28.06463855277693
-RSV,ecq,Confirmed Cases,7,One-to-Many,32.336128335911276
-RSV,Quarantine,Confirmed Cases,7,One-to-Many,33.03756721098286
-RSV,Frontliners,Confirmed Cases,30,One-to-Many,34.446970507551576
-RSV,work from home,Confirmed Cases,30,One-to-Many,35.408575484232706
-RSV,sipon,Confirmed Cases,30,One-to-Many,36.37808465298307
-RSV,lagnat,Confirmed Cases,7,One-to-Many,39.44585270412203
-RSV,ubo,Confirmed Cases,7,One-to-Many,43.494271706513054
-RSV,social distancing,Confirmed Cases,7,One-to-Many,43.76086480665504
-MSV,lagnat,Confirmed Cases,30,One-to-Many,48.95369199747336
-RSV,Frontliners,Confirmed Cases,7,One-to-Many,50.60796711947263
-RSV,work from home,Confirmed Cases,7,One-to-Many,52.24358423048664
-MSV,ecq,Confirmed Cases,30,One-to-Many,53.16534221288987
-RSV,sipon,Confirmed Cases,7,One-to-Many,56.80136882904775
-MSV,Quarantine,Confirmed Cases,30,One-to-Many,57.86020883470037
-RSV,rashes,Confirmed Cases,30,One-to-Many,59.270099757672845
-RSV,masks,Confirmed Cases,30,One-to-Many,59.43452592737457
-RSV,headache,Confirmed Cases,30,One-to-Many,63.04541105448642
-MSV,social distancing,Confirmed Cases,30,One-to-Many,65.211778772248
-MSV,Frontliners,Confirmed Cases,30,One-to-Many,66.8884728477117
-MSV,lagnat,Confirmed Cases,7,One-to-Many,68.63382894903322
-MSV,masks,Confirmed Cases,30,One-to-Many,74.22239905877704
-MSV,ecq,Confirmed Cases,7,One-to-Many,75.53326557179409
-MSV,headache,Confirmed Cases,30,One-to-Many,76.44377762310577
-MSV,fever,Confirmed Cases,30,One-to-Many,80.30425520811889
-MSV,ubo,Confirmed Cases,30,One-to-Many,80.35918662786709
-RSV,masks,Confirmed Cases,7,One-to-Many,82.5886484638934
-MSV,face shield,Confirmed Cases,30,One-to-Many,83.37607747724577
-RSV,rashes,Confirmed Cases,7,One-to-Many,85.60245977663509
-RSV,headache,Confirmed Cases,7,One-to-Many,90.64573644046871
-MSV,social distancing,Confirmed Cases,7,One-to-Many,91.49813807859583
-MSV,flu,Confirmed Cases,30,One-to-Many,92.07946349859894
-MSV,Quarantine,Confirmed Cases,7,One-to-Many,92.45471998146915
-MSV,sipon,Confirmed Cases,30,One-to-Many,94.6139636351785
-MSV,Frontliners,Confirmed Cases,7,One-to-Many,96.97449005027781
-MSV,cough,Confirmed Cases,30,One-to-Many,97.89288075827353
-MSV,work from home,Confirmed Cases,30,One-to-Many,99.03460930832262
-MSV,masks,Confirmed Cases,7,One-to-Many,103.48346708288626
-MSV,rashes,Confirmed Cases,30,One-to-Many,105.71511568732488
-MSV,headache,Confirmed Cases,7,One-to-Many,110.64744229880594
-MSV,ubo,Confirmed Cases,7,One-to-Many,113.69646999579652
-MSV,fever,Confirmed Cases,7,One-to-Many,118.11486552613431
-MSV,face shield,Confirmed Cases,7,One-to-Many,119.28682677275837
-MSV,flu,Confirmed Cases,7,One-to-Many,130.11456127831622
-MSV,sipon,Confirmed Cases,7,One-to-Many,134.34411973099577
-MSV,work from home,Confirmed Cases,7,One-to-Many,136.1666791620084
-MSV,cough,Confirmed Cases,7,One-to-Many,141.39134707076505
-MSV,rashes,Confirmed Cases,7,One-to-Many,147.78855858983056
-RSV,Quarantine,Confirmed Cases,30,One-to-One,inf
-RSV,rashes,Confirmed Cases,7,One-to-One,inf
-RSV,Quarantine,Confirmed Cases,7,One-to-One,inf
-RSV,masks,Confirmed Cases,30,One-to-One,inf
-RSV,rashes,Confirmed Cases,30,One-to-One,inf
-RSV,work from home,Confirmed Cases,7,One-to-One,inf
-RSV,masks,Confirmed Cases,7,One-to-One,inf
-RSV,sipon,Confirmed Cases,7,One-to-One,inf
-RSV,Frontliners,Confirmed Cases,30,One-to-One,inf
-RSV,Frontliners,Confirmed Cases,7,One-to-One,inf
-RSV,face shield,Confirmed Cases,30,One-to-One,inf
-RSV,sipon,Confirmed Cases,30,One-to-One,inf
-RSV,face shield,Confirmed Cases,7,One-to-One,inf
-RSV,ecq,Confirmed Cases,30,One-to-One,inf
-RSV,social distancing,Confirmed Cases,30,One-to-One,inf
-RSV,ecq,Confirmed Cases,7,One-to-One,inf
-RSV,ubo,Confirmed Cases,7,One-to-One,inf
-RSV,ubo,Confirmed Cases,30,One-to-One,inf
-RSV,social distancing,Confirmed Cases,7,One-to-One,inf
-MSV,work from home,Confirmed Cases,30,One-to-One,inf
-RSV,lagnat,Confirmed Cases,7,One-to-One,inf
-MSV,ubo,Confirmed Cases,30,One-to-One,inf
-MSV,ubo,Confirmed Cases,7,One-to-One,inf
-MSV,sipon,Confirmed Cases,30,One-to-One,inf
-MSV,sipon,Confirmed Cases,7,One-to-One,inf
-MSV,rashes,Confirmed Cases,30,One-to-One,inf
-MSV,rashes,Confirmed Cases,7,One-to-One,inf
-MSV,lagnat,Confirmed Cases,30,One-to-One,inf
-MSV,ecq,Confirmed Cases,7,One-to-One,inf
-MSV,lagnat,Confirmed Cases,7,One-to-One,inf
-MSV,headache,Confirmed Cases,7,One-to-One,inf
-MSV,fever,Confirmed Cases,30,One-to-One,inf
-MSV,fever,Confirmed Cases,7,One-to-One,inf
-MSV,cough,Confirmed Cases,30,One-to-One,inf
-MSV,cough,Confirmed Cases,7,One-to-One,inf
-MSV,flu,Confirmed Cases,30,One-to-One,inf
-MSV,flu,Confirmed Cases,7,One-to-One,inf
-MSV,headache,Confirmed Cases,30,One-to-One,inf
-MSV,ecq,Confirmed Cases,30,One-to-One,inf
-MSV,face shield,Confirmed Cases,7,One-to-One,inf
-MSV,face shield,Confirmed Cases,30,One-to-One,inf
-RSV,headache,Confirmed Cases,30,One-to-One,inf
-RSV,headache,Confirmed Cases,7,One-to-One,inf
-RSV,fever,Confirmed Cases,30,One-to-One,inf
-RSV,fever,Confirmed Cases,7,One-to-One,inf
-RSV,cough,Confirmed Cases,30,One-to-One,inf
-RSV,cough,Confirmed Cases,7,One-to-One,inf
-RSV,flu,Confirmed Cases,30,One-to-One,inf
-RSV,flu,Confirmed Cases,7,One-to-One,inf
-MSV,work from home,Confirmed Cases,7,One-to-One,inf
-MSV,social distancing,Confirmed Cases,30,One-to-One,inf
-MSV,social distancing,Confirmed Cases,7,One-to-One,inf
-MSV,Quarantine,Confirmed Cases,30,One-to-One,inf
-MSV,Quarantine,Confirmed Cases,7,One-to-One,inf
-MSV,masks,Confirmed Cases,30,One-to-One,inf
-MSV,masks,Confirmed Cases,7,One-to-One,inf
-MSV,Frontliners,Confirmed Cases,30,One-to-One,inf
-MSV,Frontliners,Confirmed Cases,7,One-to-One,inf
-RSV,lagnat,Confirmed Cases,30,One-to-One,inf
-RSV,work from home,Confirmed Cases,30,One-to-One,inf
+source,tag,comparison,radius,dtw_score
+RSV,face shield,Confirmed Cases,50,2.0278238307295475
+RSV,face shield,Confirmed Cases,30,3.796949052530582
+RSV,face shield,Confirmed Cases,20,5.581156599208746
+RSV,flu,Confirmed Cases,50,6.583810567241827
+RSV,face shield,Confirmed Cases,15,7.054872623286274
+RSV,flu,Confirmed Cases,30,9.062417585124221
+RSV,flu,Confirmed Cases,20,11.425761219456067
+RSV,face shield,Confirmed Cases,7,12.255652137032042
+RSV,ecq,Confirmed Cases,50,12.523408121171949
+RSV,Quarantine,Confirmed Cases,50,13.46349134020782
+RSV,flu,Confirmed Cases,15,13.668802807758336
+RSV,cough,Confirmed Cases,50,16.262405521360467
+RSV,fever,Confirmed Cases,50,16.68571441796483
+RSV,ecq,Confirmed Cases,30,16.700704051131492
+RSV,Quarantine,Confirmed Cases,30,17.643580885023848
+RSV,cough,Confirmed Cases,30,17.997590627029545
+RSV,lagnat,Confirmed Cases,50,18.206729884820774
+RSV,fever,Confirmed Cases,30,18.647576288255394
+RSV,cough,Confirmed Cases,20,19.810266663106837
+RSV,social distancing,Confirmed Cases,50,20.084569828535198
+RSV,fever,Confirmed Cases,20,20.5901147187664
+RSV,ecq,Confirmed Cases,20,20.60100080797433
+RSV,ubo,Confirmed Cases,50,21.055084203584247
+RSV,cough,Confirmed Cases,15,21.167613556140353
+RSV,Quarantine,Confirmed Cases,20,21.189756013886388
+RSV,flu,Confirmed Cases,7,21.659251218770326
+RSV,fever,Confirmed Cases,15,21.802738678186948
+RSV,cough,Active Cases,50,22.251285468986335
+RSV,fever,Active Cases,50,23.355403266179103
+RSV,ecq,Confirmed Cases,15,23.531811872993583
+RSV,lagnat,Confirmed Cases,30,23.8896057534419
+RSV,Quarantine,Confirmed Cases,15,24.057445073377682
+RSV,work from home,Active Cases,50,25.31622794980398
+RSV,sipon,Active Cases,50,25.429627193000673
+RSV,face shield,Active Cases,50,25.50898982119458
+RSV,ubo,Active Cases,50,26.464724244180445
+RSV,sipon,Confirmed Cases,50,26.639176048848597
+RSV,work from home,Confirmed Cases,50,26.654751757975376
+RSV,social distancing,Confirmed Cases,30,27.338559662989173
+RSV,fever,Confirmed Cases,7,27.45648669640726
+RSV,lagnat,Confirmed Cases,20,27.809248294376157
+RSV,cough,Confirmed Cases,7,27.835267214269155
+RSV,ubo,Confirmed Cases,30,28.06463855277693
+RSV,flu,Active Cases,50,28.329451856402393
+RSV,Frontliners,Confirmed Cases,50,29.527292079137602
+RSV,cough,Active Cases,30,30.11505380195161
+RSV,fever,Active Cases,30,30.539309854962916
+RSV,lagnat,Confirmed Cases,15,30.885609529064947
+RSV,social distancing,Confirmed Cases,20,31.722390375044018
+RSV,ubo,Confirmed Cases,20,32.23039519307097
+RSV,ecq,Confirmed Cases,7,32.336128335911276
+RSV,Quarantine,Confirmed Cases,7,33.03756721098286
+RSV,face shield,Active Cases,30,33.79336469455629
+RSV,social distancing,Active Cases,50,34.17157166660913
+RSV,Frontliners,Confirmed Cases,30,34.446970507551576
+RSV,ubo,Confirmed Cases,15,34.87154611770237
+RSV,social distancing,Confirmed Cases,15,34.98434499327053
+RSV,work from home,Active Cases,30,35.10261626276376
+RSV,work from home,Confirmed Cases,30,35.408575484232706
+RSV,rashes,Active Cases,50,35.46864359304687
+MSV,Quarantine,Active Cases,50,36.1652827410865
+RSV,sipon,Confirmed Cases,30,36.37808465298307
+RSV,Frontliners,Active Cases,50,36.61767262720032
+RSV,ubo,Active Cases,30,36.79716059467111
+RSV,flu,Active Cases,30,36.90842874859293
+RSV,sipon,Active Cases,30,37.39334599846968
+RSV,cough,Active Cases,20,37.53878664874809
+RSV,fever,Active Cases,20,37.63531064269237
+MSV,lagnat,Confirmed Cases,50,38.022822101455276
+RSV,Frontliners,Confirmed Cases,20,38.58605802636619
+RSV,lagnat,Active Cases,50,38.86888916640559
+MSV,Quarantine,Confirmed Cases,50,39.10900642617158
+RSV,lagnat,Confirmed Cases,7,39.44585270412203
+RSV,headache,Active Cases,50,40.2609787073981
+RSV,ecq,Active Cases,50,40.682630224585175
+RSV,Quarantine,Active Cases,50,40.70110234776598
+RSV,work from home,Confirmed Cases,20,40.947426811310756
+RSV,masks,Active Cases,50,41.40891498587711
+RSV,Frontliners,Confirmed Cases,15,41.643936711325225
+MSV,ecq,Confirmed Cases,50,41.97222272504051
+RSV,fever,Active Cases,15,41.9810754252995
+RSV,cough,Active Cases,15,42.02107503758513
+RSV,face shield,Active Cases,20,42.31239428127444
+RSV,sipon,Confirmed Cases,20,42.714144594503914
+RSV,ubo,Confirmed Cases,7,43.494271706513054
+RSV,social distancing,Confirmed Cases,7,43.76086480665504
+RSV,work from home,Active Cases,20,43.998062821251004
+RSV,masks,Confirmed Cases,50,44.14897226386762
+RSV,work from home,Confirmed Cases,15,44.17336567467712
+RSV,rashes,Confirmed Cases,50,44.2018822740208
+MSV,fever,Active Cases,50,44.8947548441412
+MSV,headache,Active Cases,50,44.97143808082186
+RSV,ubo,Active Cases,20,45.313081075734885
+RSV,flu,Active Cases,20,45.41188925796625
+RSV,social distancing,Active Cases,30,45.69599626048381
+RSV,sipon,Active Cases,20,46.39626048874165
+RSV,sipon,Confirmed Cases,15,46.61285133774188
+RSV,Frontliners,Active Cases,30,47.03425866391179
+RSV,face shield,Active Cases,15,47.28284109645745
+RSV,headache,Confirmed Cases,50,47.567890506806414
+MSV,flu,Active Cases,50,48.72533144802598
+MSV,lagnat,Confirmed Cases,30,48.95369199747336
+RSV,lagnat,Active Cases,30,49.20718750212945
+RSV,work from home,Active Cases,15,49.26798987887097
+MSV,Frontliners,Confirmed Cases,50,49.34316858077361
+RSV,ubo,Active Cases,15,49.83134420708592
+MSV,social distancing,Confirmed Cases,50,49.93795633017155
+MSV,face shield,Active Cases,50,49.972603109797674
+MSV,masks,Active Cases,50,50.025218736961705
+RSV,ecq,Active Cases,30,50.3809392524099
+RSV,fever,Active Cases,7,50.395741924027554
+RSV,rashes,Active Cases,30,50.42346708770715
+MSV,ecq,Active Cases,50,50.46327055035835
+RSV,flu,Active Cases,15,50.52761733687401
+RSV,Frontliners,Confirmed Cases,7,50.60796711947263
+RSV,Quarantine,Active Cases,30,51.01736602401538
+RSV,cough,Active Cases,7,51.22534798541636
+RSV,sipon,Active Cases,15,51.81382670581885
+RSV,work from home,Confirmed Cases,7,52.24358423048664
+MSV,headache,Confirmed Cases,50,52.89445582991835
+MSV,masks,Confirmed Cases,50,53.13551782172029
+MSV,ecq,Confirmed Cases,30,53.16534221288987
+MSV,Frontliners,Active Cases,50,53.25922222465241
+MSV,Quarantine,Active Cases,30,53.85946090042903
+MSV,fever,Confirmed Cases,50,54.09257284588281
+RSV,Frontliners,Active Cases,20,54.4574953586856
+MSV,lagnat,Confirmed Cases,20,54.469228391082325
+MSV,face shield,Confirmed Cases,50,54.71034677758143
+MSV,cough,Active Cases,50,54.76586427655221
+RSV,social distancing,Active Cases,20,54.887834300940895
+RSV,headache,Active Cases,30,55.28092591382606
+RSV,face shield,Active Cases,7,56.54789880201049
+RSV,sipon,Confirmed Cases,7,56.80136882904775
+MSV,Quarantine,Confirmed Cases,30,57.86020883470037
+RSV,masks,Active Cases,30,58.23801334924248
+MSV,ubo,Confirmed Cases,50,58.27769439854916
+RSV,lagnat,Active Cases,20,58.337166908429836
+MSV,lagnat,Confirmed Cases,15,58.858439651543925
+RSV,ecq,Active Cases,20,58.97034894481036
+RSV,rashes,Confirmed Cases,30,59.270099757672845
+MSV,social distancing,Active Cases,50,59.29099569259647
+RSV,Frontliners,Active Cases,15,59.34066761869248
+RSV,rashes,Active Cases,20,59.38781023680997
+RSV,masks,Confirmed Cases,30,59.43452592737457
+RSV,ubo,Active Cases,7,59.602798914656184
+RSV,work from home,Active Cases,7,59.72102781093695
+MSV,sipon,Active Cases,50,59.82825827641133
+RSV,Quarantine,Active Cases,20,59.874110761231954
+RSV,social distancing,Active Cases,15,60.01503861816271
+MSV,ubo,Active Cases,50,60.13136616372857
+MSV,ecq,Confirmed Cases,20,60.58809789586574
+RSV,flu,Active Cases,7,61.05765738300644
+MSV,lagnat,Active Cases,50,61.20049828562869
+MSV,flu,Confirmed Cases,50,61.5207253941918
+RSV,sipon,Active Cases,7,62.4317789322172
+RSV,headache,Confirmed Cases,30,63.04541105448642
+RSV,lagnat,Active Cases,15,63.58945323566013
+RSV,ecq,Active Cases,15,64.11201620010004
+MSV,ecq,Confirmed Cases,15,64.72838874550968
+MSV,work from home,Active Cases,50,64.76580576604846
+RSV,headache,Active Cases,20,64.81758693443984
+RSV,rashes,Active Cases,15,64.85639778067493
+MSV,cough,Confirmed Cases,50,64.87031427898431
+RSV,Quarantine,Active Cases,15,65.19162893190557
+MSV,social distancing,Confirmed Cases,30,65.211778772248
+MSV,sipon,Confirmed Cases,50,65.33993105636358
+MSV,ecq,Active Cases,30,65.9152250108167
+MSV,Frontliners,Confirmed Cases,30,66.8884728477117
+MSV,headache,Active Cases,30,67.14380379357111
+MSV,Quarantine,Active Cases,20,67.26057455558895
+RSV,masks,Confirmed Cases,20,67.57903401484128
+MSV,lagnat,Confirmed Cases,7,68.63382894903322
+RSV,rashes,Confirmed Cases,20,68.70929299438286
+RSV,masks,Active Cases,20,68.71853851405305
+MSV,rashes,Active Cases,50,69.50900206120674
+RSV,Frontliners,Active Cases,7,69.5906697015552
+MSV,masks,Active Cases,30,69.76984960275952
+MSV,Quarantine,Confirmed Cases,20,70.16851942219165
+MSV,fever,Active Cases,30,70.2473449682722
+RSV,social distancing,Active Cases,7,70.49345238549397
+RSV,headache,Active Cases,15,71.09623035584113
+MSV,Frontliners,Active Cases,30,71.77619432882159
+RSV,headache,Confirmed Cases,20,72.07707511381733
+MSV,work from home,Confirmed Cases,50,72.22771457886081
+RSV,masks,Confirmed Cases,15,72.31532450160853
+MSV,social distancing,Confirmed Cases,20,74.0463194876848
+RSV,rashes,Confirmed Cases,15,74.13905676703592
+MSV,lagnat,Active Cases,30,74.18994927260445
+MSV,masks,Confirmed Cases,30,74.22239905877704
+RSV,masks,Active Cases,15,74.3335521072182
+MSV,Quarantine,Active Cases,15,74.3575560837498
+RSV,ecq,Active Cases,7,74.37620252365662
+RSV,lagnat,Active Cases,7,74.42987802546266
+RSV,rashes,Active Cases,7,74.80926199761764
+MSV,ecq,Confirmed Cases,7,75.53326557179409
+MSV,ecq,Active Cases,20,75.76187114208466
+RSV,Quarantine,Active Cases,7,75.86468046410147
+MSV,social distancing,Active Cases,30,76.11255794142001
+MSV,headache,Confirmed Cases,30,76.44377762310577
+MSV,flu,Active Cases,30,77.11427015646282
+RSV,headache,Confirmed Cases,15,77.59707289611387
+MSV,Quarantine,Confirmed Cases,15,77.68861701552846
+MSV,Frontliners,Confirmed Cases,20,78.0496985000121
+MSV,rashes,Confirmed Cases,50,78.97340731651276
+MSV,face shield,Active Cases,30,79.04059985796115
+MSV,headache,Active Cases,20,79.33999854229478
+MSV,social distancing,Confirmed Cases,15,79.70991480079472
+MSV,fever,Confirmed Cases,30,80.30425520811889
+MSV,ubo,Confirmed Cases,30,80.35918662786709
+MSV,masks,Active Cases,20,80.39961695674027
+MSV,ecq,Active Cases,15,81.37151295986048
+RSV,headache,Active Cases,7,82.32072327627866
+RSV,masks,Confirmed Cases,7,82.5886484638934
+MSV,Frontliners,Active Cases,20,82.8206142287683
+MSV,ubo,Active Cases,30,83.34736569896096
+MSV,face shield,Confirmed Cases,30,83.37607747724577
+MSV,lagnat,Active Cases,20,84.02086457434748
+RSV,masks,Active Cases,7,84.23535385284735
+MSV,masks,Confirmed Cases,20,84.83906701724143
+MSV,Frontliners,Confirmed Cases,15,84.86322781172919
+MSV,social distancing,Active Cases,20,85.28895730941134
+MSV,cough,Active Cases,30,85.54212080718898
+MSV,fever,Active Cases,20,85.54216908800932
+RSV,rashes,Confirmed Cases,7,85.60245977663509
+MSV,masks,Active Cases,15,86.52727338528193
+MSV,headache,Active Cases,15,86.67326490862096
+MSV,sipon,Active Cases,30,87.7023462157347
+MSV,Quarantine,Active Cases,7,87.91163769834155
+MSV,headache,Confirmed Cases,20,88.53809355296794
+MSV,lagnat,Active Cases,15,88.95596924282434
+MSV,work from home,Active Cases,30,89.4457870056709
+MSV,Frontliners,Active Cases,15,89.90136853388523
+MSV,masks,Confirmed Cases,15,90.4507761543087
+MSV,social distancing,Active Cases,15,90.6189806110484
+RSV,headache,Confirmed Cases,7,90.64573644046871
+MSV,social distancing,Confirmed Cases,7,91.49813807859583
+MSV,flu,Confirmed Cases,30,92.07946349859894
+MSV,flu,Active Cases,20,92.20814646935858
+MSV,Quarantine,Confirmed Cases,7,92.45471998146915
+MSV,fever,Active Cases,15,93.04785114869928
+MSV,ubo,Confirmed Cases,20,93.58378929582192
+MSV,ecq,Active Cases,7,93.61171563991748
+MSV,sipon,Confirmed Cases,30,94.6139636351785
+MSV,fever,Confirmed Cases,20,95.05571433241589
+MSV,rashes,Active Cases,30,95.46253024834523
+MSV,headache,Confirmed Cases,15,95.80551919836714
+MSV,face shield,Active Cases,20,96.47894006884056
+MSV,Frontliners,Confirmed Cases,7,96.97449005027781
+MSV,masks,Active Cases,7,97.076779000582
+MSV,ubo,Active Cases,20,97.09074105683165
+MSV,cough,Confirmed Cases,30,97.89288075827353
+MSV,face shield,Confirmed Cases,20,98.07904450658354
+MSV,work from home,Confirmed Cases,30,99.03460930832262
+MSV,headache,Active Cases,7,99.34277455781707
+MSV,lagnat,Active Cases,7,99.40811866911837
+MSV,ubo,Confirmed Cases,15,99.97906700315143
+MSV,flu,Active Cases,15,100.24934506474227
+MSV,social distancing,Active Cases,7,101.44575647160711
+MSV,work from home,Active Cases,20,102.3390932456975
+MSV,cough,Active Cases,20,102.84108059473505
+MSV,Frontliners,Active Cases,7,103.09108570841146
+MSV,fever,Confirmed Cases,15,103.23028341053818
+MSV,masks,Confirmed Cases,7,103.48346708288626
+MSV,ubo,Active Cases,15,103.64188004007475
+MSV,sipon,Active Cases,20,103.81567845478054
+MSV,face shield,Active Cases,15,105.16429919062728
+MSV,fever,Active Cases,7,105.429388029729
+MSV,face shield,Confirmed Cases,15,105.48829686266768
+MSV,rashes,Confirmed Cases,30,105.71511568732488
+MSV,flu,Confirmed Cases,20,107.21919544732663
+MSV,work from home,Active Cases,15,109.26540986416211
+MSV,sipon,Confirmed Cases,20,110.28387803992732
+MSV,rashes,Active Cases,20,110.56334670620562
+MSV,headache,Confirmed Cases,7,110.64744229880594
+MSV,cough,Active Cases,15,111.33445850640076
+MSV,sipon,Active Cases,15,111.94086249008012
+MSV,flu,Active Cases,7,112.70322758224373
+MSV,work from home,Confirmed Cases,20,113.15790828153423
+MSV,ubo,Confirmed Cases,7,113.69646999579652
+MSV,flu,Confirmed Cases,15,114.94396208597732
+MSV,cough,Confirmed Cases,20,115.73184089054183
+MSV,ubo,Active Cases,7,116.38673353905665
+MSV,rashes,Active Cases,15,117.68528993895615
+MSV,fever,Confirmed Cases,7,118.11486552613431
+MSV,sipon,Confirmed Cases,15,118.14712718753276
+MSV,face shield,Active Cases,7,118.88577677797491
+MSV,face shield,Confirmed Cases,7,119.28682677275837
+MSV,work from home,Confirmed Cases,15,120.918233523203
+MSV,work from home,Active Cases,7,121.50239477494873
+MSV,rashes,Confirmed Cases,20,122.97230533112426
+MSV,cough,Confirmed Cases,15,125.20987109916155
+MSV,sipon,Active Cases,7,125.45199297224386
+MSV,cough,Active Cases,7,125.86780164853737
+MSV,rashes,Active Cases,7,129.9493641577763
+MSV,flu,Confirmed Cases,7,130.11456127831622
+MSV,rashes,Confirmed Cases,15,131.49807034670673
+MSV,sipon,Confirmed Cases,7,134.34411973099577
+MSV,work from home,Confirmed Cases,7,136.1666791620084
+MSV,cough,Confirmed Cases,7,141.39134707076505
+MSV,rashes,Confirmed Cases,7,147.78855858983056
