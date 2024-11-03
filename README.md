@@ -1,6 +1,6 @@
 # Introduction
 
-This is the official repository for the undergraduate thesis of Lopes and Hung (2024). The following folders are here for you to explore:
+This is the official repository for the undergraduate thesis of Lopez and Hung (2024). The following folders are here for you to explore:
 
 1. `gt_scraper`: These are the `python` programs that helped us on scraping off Google Trends data from the internet. It came from an open-sourced program by Chu et al.
 2. `gt_raw_daily30daywindow_volumes`: Where you may find the raw GT values in 30-day windows for each keyword.
